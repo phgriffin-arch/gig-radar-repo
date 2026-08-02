@@ -15,9 +15,22 @@ if ! gh auth status >/dev/null 2>&1; then
 fi
 
 if [ ! -f .env ]; then
-  echo ".env not found. Copy .env.example to .env and fill in your keys first:"
-  echo "  cp .env.example .env"
-  exit 1
+  echo "No .env yet -- let's create one now."
+  echo "Press Enter to skip any you don't have yet; you can add them later by"
+  echo "editing .env and running this script again."
+  echo
+  read -rp "Ticketmaster API key: " tm_key
+  read -rp "SeatGeek client ID: " sg_id
+  read -rp "Bandsintown app ID: " bt_id
+  read -rp "ntfy.sh topic (for the phone/iPad push alert): " ntfy_topic
+  {
+    echo "TICKETMASTER_API_KEY=$tm_key"
+    echo "SEATGEEK_CLIENT_ID=$sg_id"
+    echo "BANDSINTOWN_APP_ID=$bt_id"
+    echo "NTFY_TOPIC=$ntfy_topic"
+  } > .env
+  echo
+  echo ".env created."
 fi
 
 if [ -z "$(git config --global user.email 2>/dev/null || true)" ]; then
@@ -29,6 +42,9 @@ fi
 
 if ! grep -qxF ".env" .gitignore 2>/dev/null; then
   echo ".env" >> .gitignore
+fi
+if ! grep -qxF ".DS_Store" .gitignore 2>/dev/null; then
+  echo ".DS_Store" >> .gitignore
 fi
 
 if [ ! -d .git ]; then
@@ -46,7 +62,12 @@ fi
 REPO_NAME=$(basename "$PWD")
 
 if git remote get-url origin >/dev/null 2>&1; then
-  echo "Remote 'origin' already set -- pushing instead of creating a new repo."
+  echo "Remote 'origin' already set -- syncing with it before pushing (the Actions bot may have committed updates since your last run)..."
+  if ! git pull --rebase origin main; then
+    echo "Could not sync automatically -- there may be a real conflict to resolve."
+    echo "Run 'git status' to see what's going on, then re-run this script."
+    exit 1
+  fi
   git push -u origin main
 else
   echo "Creating GitHub repo '$REPO_NAME'..."
