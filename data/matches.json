@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-02T18:38:33.835451+00:00",
+  "last_checked": "2026-08-02T21:21:17.085386+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -10,6 +10,226 @@
       ],
       "date": "2026-09-01",
       "url": "https://example.com/evt1"
+    },
+    {
+      "id": "scbtma_king_james_boys_2026-07-17",
+      "artist": "King James Boys",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-07-17",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_podunk_ramblers_2026-07-31",
+      "artist": "Podunk Ramblers",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-07-31",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_the_grass_strings_2026-08-07",
+      "artist": "The Grass Strings",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-08-07",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_backline_2016-08-21",
+      "artist": "Backline",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2016-08-21",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_stanley,_ulisse_&_salley_2026-08-28",
+      "artist": "Stanley, Ulisse & Salley",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-08-28",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_boonie_bevins_and_carolina_drive_2026-09-04",
+      "artist": "Boonie Bevins and Carolina Drive",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-09-04",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_willie_wells_and_the__blueridge_mountain_grass_2026-09-18",
+      "artist": "Willie Wells and the  Blueridge Mountain Grass",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_headin'_home_2026-10-02",
+      "artist": "Headin' Home",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-10-02",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_grass_strings_2026-11-06",
+      "artist": "Grass Strings",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-11-06",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_edgar_loudermilk_2026-11-13",
+      "artist": "Edgar Loudermilk",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_king_james_boys_2026-11-20",
+      "artist": "King James Boys",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_willie_wells_and_the_blueridge_mountain_grass_2026-12-04",
+      "artist": "Willie Wells and the Blueridge Mountain Grass",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-12-04",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "scbtma_the_picking_pearls_2026-12-11",
+      "artist": "The Picking Pearls",
+      "venue": "Bill's Music Shop & Pickin' Parlor, West Columbia SC",
+      "genres": [
+        "bluegrass"
+      ],
+      "date": "2026-12-11",
+      "url": "https://www.scbtma.com/"
+    },
+    {
+      "id": "abs_atlanta_blues_challenge_2026-08-16_1",
+      "artist": "Atlanta Blues Challenge",
+      "venue": "Atlanta Blues Challenge at MadLife Stage & Studios, Woodstock, 1pm-8pm(approx), now taking applications",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-16",
+      "url": "https://atlantabluessociety.org/calendar/"
+    },
+    {
+      "id": "abs_albert_white_band_2026-08-02_15",
+      "artist": "Albert White Band",
+      "venue": "Albert White Band , Celebration of Life for Daryl Dunn, MoonShadow Tavern, Tucker",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-02",
+      "url": "https://www.facebook.com/events/839436202434152"
+    },
+    {
+      "id": "abs_mudcat_2026-08-02_16",
+      "artist": "Mudcat",
+      "venue": "Mudcat , Celebration of Life for Daryl Dunn , MoonShadow Tavern, Tucker",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-02",
+      "url": "https://www.facebook.com/events/839436202434152"
+    },
+    {
+      "id": "abs_let_it_rip_band_2026-08-02_17",
+      "artist": "Let it Rip Band",
+      "venue": "Let it Rip Band , Radio & Records Awards Ceremony , BackStage Atlanta, College Park",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-02",
+      "url": "https://www.facebook.com/events/1463628031942204"
+    },
+    {
+      "id": "abs_the_sharks_2026-08-04_18",
+      "artist": "The Sharks",
+      "venue": "The Sharks host Industry Night at Blind Willie\u2019s  Thursday, August 6, 2026, 6pm-9pm: Little Becky & the Big Shots at Mad Italian Patio, Chamblee",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-04",
+      "url": "https://www.facebook.com/events/1563140991956844"
+    },
+    {
+      "id": "abs_blind_jive_2026-08-07_19",
+      "artist": "Blind Jive",
+      "venue": "Blind Jive w/ Atomic Plush at Eddie\u2019s Attic, Decatur",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-07",
+      "url": "https://www.facebook.com/events/858858733476853"
+    },
+    {
+      "id": "abs_chequered_blue_2026-08-07_20",
+      "artist": "Chequered Blue",
+      "venue": "Chequered Blue at Rock the Block, Duluth",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-07",
+      "url": "https://www.facebook.com/chequeredblue"
+    },
+    {
+      "id": "abs_cash\u2019s_juke_joint_2026-08-08_23",
+      "artist": "Cash\u2019s Juke Joint",
+      "venue": "Cash\u2019s Juke Joint at Blind Willie\u2019s, Atlanta",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-08",
+      "url": "https://www.facebook.com/events/28015123874747199"
+    },
+    {
+      "id": "abs_skyler_saufley_2026-08-11_27",
+      "artist": "Skyler Saufley",
+      "venue": "Skyler Saufley hosts Industry Night at Blind Willie\u2019s",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-11",
+      "url": "https://www.facebook.com/SkylerSaufleyMusic"
     }
   ]
 }
