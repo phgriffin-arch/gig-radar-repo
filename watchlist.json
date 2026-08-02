@@ -1,0 +1,14 @@
+{
+  "home_zip": "48236",
+  "radius_miles": 1,
+
+  "friend_email": "friend@example.com",
+  "friend_phone": "+15557654321",
+  "sendgrid_from_email": "alerts@yourdomain.com",
+  "twilio_from_number": "+15551234567",
+
+  "watchlist": [
+    { "kind": "artist", "value": "Tank and the Bangas" },
+    { "kind": "genre", "value": "blues" }
+  ]
+}
