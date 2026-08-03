@@ -274,14 +274,14 @@ function renderWatchlistChips(items){
     el.innerHTML = `<div class="empty">Nothing on the watchlist yet.</div>`;
     return;
   }
-  el.innerHTML = items.map((i, idx) => `
+  el.innerHTML = items.map(i => `
     <div class="chip">
       <span class="kind">${escapeHtml(i.kind)}</span>${escapeHtml(i.value)}
-      <button data-idx="${idx}" title="Remove" ${hasToken() ? "" : "disabled"}>×</button>
+      <button data-kind="${escapeHtml(i.kind)}" data-value="${escapeHtml(i.value)}" title="Remove" ${hasToken() ? "" : "disabled"}>×</button>
     </div>
   `).join("");
-  el.querySelectorAll("button[data-idx]").forEach(btn => {
-    btn.addEventListener("click", () => removeFromWatchlist(parseInt(btn.dataset.idx, 10)));
+  el.querySelectorAll("button[data-kind]").forEach(btn => {
+    btn.addEventListener("click", () => removeFromWatchlist(btn.dataset.kind, btn.dataset.value));
   });
 }
 
@@ -306,7 +306,7 @@ let watchlistWriteInProgress = false;
 
 function setWatchlistControlsEnabled(enabled){
   document.getElementById("addBtn").disabled = !enabled || !hasToken();
-  document.querySelectorAll("#watchlistChips button[data-idx]").forEach(b => {
+  document.querySelectorAll("#watchlistChips button[data-kind]").forEach(b => {
     b.disabled = !enabled || !hasToken();
   });
 }
@@ -359,19 +359,22 @@ async function addToWatchlist(){
   }
 }
 
-async function removeFromWatchlist(idx){
+async function removeFromWatchlist(kind, value){
   if(watchlistWriteInProgress) return;
   watchlistWriteInProgress = true;
   setWatchlistControlsEnabled(false);
   setWatchlistStatus("Removing…");
   try{
     await withFreshWatchlist(async (json, sha) => {
-      const removed = json.watchlist[idx];
-      json.watchlist.splice(idx, 1);
-      await ghPutFile("watchlist.json", json, sha, `Remove ${removed.kind}: ${removed.value}`);
+      const matchIdx = json.watchlist.findIndex(w => w.kind === kind && w.value === value);
+      if(matchIdx === -1){
+        throw new Error(`"${value}" isn't in the current list — someone else's change may have just landed. Refreshing the page will show what's really there.`);
+      }
+      json.watchlist.splice(matchIdx, 1);
+      await ghPutFile("watchlist.json", json, sha, `Remove ${kind}: ${value}`);
       renderWatchlistChips(json.watchlist);
     });
-    setWatchlistStatus("Removed ✓", "ok");
+    setWatchlistStatus(`Removed "${value}" ✓`, "ok");
   }catch(e){
     setWatchlistStatus(e.message, "err");
   }finally{
