@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-03T14:54:35.574801+00:00",
+  "last_checked": "2026-08-03T15:15:25.264974+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -230,6 +230,407 @@
       ],
       "date": "2026-08-11",
       "url": "https://www.facebook.com/SkylerSaufleyMusic"
+    },
+    {
+      "id": "tm_G5eVZ_ue4VDKh",
+      "artist": "Joe Bonamassa",
+      "venue": "North Charleston Performing Arts Center",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2027-03-11",
+      "url": "https://www.ticketmaster.com/joe-bonamassa-north-charleston-south-carolina-03-11-2027/event/2D0064D095D3B4DB"
+    },
+    {
+      "id": "tm_vvG1zZ_ahLJz9F",
+      "artist": "Tinsley Ellis",
+      "venue": "District Live",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2026-08-14",
+      "url": "https://www.ticketmaster.com/tinsley-ellis-savannah-georgia-08-14-2026/event/0E006496DF9B85C8"
+    },
+    {
+      "id": "tm_vvG1zZ_Gf2RmjG",
+      "artist": "Selwyn Birchwood",
+      "venue": "District Live",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2026-08-15",
+      "url": "https://www.ticketmaster.com/selwyn-birchwood-savannah-georgia-08-15-2026/event/0E0064C50FBEE70C"
+    },
+    {
+      "id": "tm_G5eVZ_ad4bmAR",
+      "artist": "Tab Benoit",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2026-11-08",
+      "url": "https://www.ticketmaster.com/tab-benoit-soul-of-the-swamp-charleston-south-carolina-11-08-2026/event/2D006490D562E16F"
+    },
+    {
+      "id": "tm_G5eVZ_GNVuQQC",
+      "artist": "Mountain Grass Unit",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2026-11-04",
+      "url": "https://www.ticketmaster.com/mountain-grass-unit-appalachian-smoke-tour-charleston-south-carolina-11-04-2026/event/2D0064C8F435A68E"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70Zaz",
+      "artist": "Trampled By Turtles",
+      "venue": "The Refinery Charleston",
+      "genres": [
+        "Blues",
+        "Jazz Blues"
+      ],
+      "date": "2026-10-16",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Zaz"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70d8x",
+      "artist": "Wynton Marsalis",
+      "venue": "Gaillard Center",
+      "genres": [
+        "Blues",
+        "Jazz Blues"
+      ],
+      "date": "2027-01-30",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70d8x"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70d8E",
+      "artist": "Branford Marsalis",
+      "venue": "Gaillard Center",
+      "genres": [
+        "Blues",
+        "Jazz Blues"
+      ],
+      "date": "2027-04-11",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70d8E"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfPSfN",
+      "artist": "Jesse Roper",
+      "venue": "The Refinery",
+      "genres": [
+        "Blues",
+        "Modern Blues"
+      ],
+      "date": "2026-11-11",
+      "url": "https://www.ticketweb.com/event/limbo-at-the-refinery-presents-the-refinery-tickets/14973523"
+    },
+    {
+      "id": "tm_G5eVZ_uQcQn3o",
+      "artist": "Joe Bonamassa",
+      "venue": "Township Auditorium",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2027-03-05",
+      "url": "https://www.ticketmaster.com/joe-bonamassa-columbia-south-carolina-03-05-2027/event/2D0064D6AD6AA491"
+    },
+    {
+      "id": "tm_17FOv0G6CxpJsgQ",
+      "artist": "Of Monsters and Men",
+      "venue": "The St. Augustine Amphitheatre",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-09-29",
+      "url": "https://www.axs.com/events/1511333/of-monsters-and-men-the-mouse-parade-tour-tickets?_gl=1*18lmp27*_gcl_au*MTIxODY4NDUwNC4xNzgyMTU1OTQ3*_ga*MTk1Nzg0NDE4Ni4xNzYwNjQ0NjYx*_ga_F0C6P47R34*czE3ODM1MTkzNDUkbzE4JGcxJHQxNzgzNTIxMjgxJGo1MyRsMCRoMA..&__cf_chl_"
+    },
+    {
+      "id": "tm_G5eVZ_GTq01tg",
+      "artist": "Joe Bonamassa",
+      "venue": "Ovens Auditorium",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2027-03-06",
+      "url": "https://www.ticketmaster.com/an-evening-with-joe-bonamassa-charlotte-north-carolina-03-06-2027/event/2D0064CFDD90AA75"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7x9f6",
+      "artist": "Trampled By Turtles",
+      "venue": "Miller Theater - GA",
+      "genres": [
+        "Blues",
+        "Jazz Blues"
+      ],
+      "date": "2026-10-11",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x9f6"
+    },
+    {
+      "id": "tm_G5eVZ_GmyyAgG",
+      "artist": "Judah & the Lion",
+      "venue": "The Senate",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-11-04",
+      "url": "https://www.ticketmaster.com/judah-the-lion-columbia-south-carolina-11-04-2026/event/2D0064CBB9E45D4C"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7Ot7v",
+      "artist": "Tedeschi Trucks Band",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Blues",
+        "Jazz Blues"
+      ],
+      "date": "2026-10-10",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ot7v"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7J8AA",
+      "artist": "Joe Bonamassa",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Blues",
+        "Jazz Blues"
+      ],
+      "date": "2027-03-13",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J8AA"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7Ote_",
+      "artist": "Tedeschi Trucks Band",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Blues",
+        "Jazz Blues"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ote_"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfPOuS",
+      "artist": "American Football",
+      "venue": "FIVE",
+      "genres": [
+        "Indie Rock",
+        "Rock"
+      ],
+      "date": "2026-12-15",
+      "url": "https://www.ticketweb.com/event/american-football-five-tickets/14960373"
+    },
+    {
+      "id": "tm_G5eVZ_GlaeWRh",
+      "artist": "Judah & the Lion",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-11-06",
+      "url": "https://www.ticketmaster.com/judah-the-lion-charlotte-north-carolina-11-06-2026/event/2D0064CAC90BDBDB"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7-b7b",
+      "artist": "Buddy Guy",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Blues",
+        "Jazz Blues"
+      ],
+      "date": "2026-08-22",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-b7b"
+    },
+    {
+      "id": "tm_G5eVZ_CJBqxNG",
+      "artist": "Gregory Alan Isakov",
+      "venue": "Skyla Credit Union Amphitheatre",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-10-08",
+      "url": "https://www.ticketmaster.com/gregory-alan-isakov-charlotte-north-carolina-10-08-2026/event/2D0064E9BA7628CC"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af0w3d",
+      "artist": "Sweet Pill",
+      "venue": "The Wooly",
+      "genres": [
+        "Emo",
+        "Indie Rock",
+        "Alternative",
+        "Rock"
+      ],
+      "date": "2026-11-07",
+      "url": "https://www.ticketweb.com/event/sweet-pill-us-the-wooly-tickets/14932483"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7P4ep",
+      "artist": "Winyah",
+      "venue": "Heartwood Soundstage",
+      "genres": [
+        "Indie Rock",
+        "Rock"
+      ],
+      "date": "2026-08-22",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P4ep"
+    },
+    {
+      "id": "tm_vvG1zZ_GlcSBhO",
+      "artist": "Judah & the Lion",
+      "venue": "Tabernacle",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-11-12",
+      "url": "https://www.ticketmaster.com/judah-the-lion-atlanta-georgia-11-12-2026/event/0E0064CAEDCFA6E0"
+    },
+    {
+      "id": "tm_vvG1zZ_72uwFNp",
+      "artist": "Buddy Guy",
+      "venue": "Atlanta Symphony Hall",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2026-08-20",
+      "url": "https://www.ticketmaster.com/buddy-guy-90-atlanta-georgia-08-20-2026/event/0E006443CDC888D6"
+    },
+    {
+      "id": "tm_G5eVZ_GVN1USW",
+      "artist": "Yaelokre",
+      "venue": "The Underground",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/yaelokre-charlotte-north-carolina-11-13-2026/event/2D0064CD232B6CFD"
+    },
+    {
+      "id": "tm_G5eVZ_k3_NigD",
+      "artist": "Josh Garrels",
+      "venue": "The Underground",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-11-12",
+      "url": "https://www.ticketmaster.com/josh-garrels-with-special-guest-taylor-charlotte-north-carolina-11-12-2026/event/2D006464998ECD7B"
+    },
+    {
+      "id": "tm_G5eVZ_GJBDxsN",
+      "artist": "Mountain Grass Unit",
+      "venue": "The Underground",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2026-11-06",
+      "url": "https://www.ticketmaster.com/mountain-grass-unit-appalachian-smoke-tour-charlotte-north-carolina-11-06-2026/event/2D0064C9BAEE2C63"
+    },
+    {
+      "id": "tm_G5eVZ_CnuY1iu",
+      "artist": "Noah Rinker",
+      "venue": "The Underground",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-10-02",
+      "url": "https://www.ticketmaster.com/noah-rinker-charlotte-north-carolina-10-02-2026/event/2D0064EA8DC0AB0D"
+    },
+    {
+      "id": "tm_vvG1zZ_FBNVb60",
+      "artist": "Trampled By Turtles",
+      "venue": "Tabernacle",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/trampled-by-turtles-atlanta-georgia-10-09-2026/event/0E00648EA3D181E4"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7x9ow",
+      "artist": "Trampled By Turtles",
+      "venue": "The Amp Ballantyne",
+      "genres": [
+        "Blues",
+        "Jazz Blues"
+      ],
+      "date": "2026-10-17",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x9ow"
+    },
+    {
+      "id": "tm_vvG1zZ_uUNw9T7",
+      "artist": "The Avett Brothers",
+      "venue": "Truist Park",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-09-08",
+      "url": "https://www.ticketmaster.com/braves-postgame-concert-the-avett-brothers-atlanta-georgia-09-08-2026/event/0E0064DDA3C97FC4"
+    },
+    {
+      "id": "tm_G5eVZ_u19ljaw",
+      "artist": "Balsam Range",
+      "venue": "The Hall at Spartanburg Memorial Auditorium",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2026-09-12",
+      "url": "https://www.ticketmaster.com/balsam-range-with-the-amanda-cook-spartanburg-south-carolina-09-12-2026/event/2D0064D297ADC272"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7Ptuo",
+      "artist": "The Gringos",
+      "venue": "Amos Southend",
+      "genres": [
+        "Indie Rock",
+        "Rock"
+      ],
+      "date": "2026-08-20",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ptuo"
+    },
+    {
+      "id": "tm_vvG1zZ_1rz0oYp",
+      "artist": "Buffalo Traffic Jam",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/buffalo-traffic-jam-pictures-of-you-atlanta-georgia-09-19-2026/event/0E0064A7B8911C16"
+    },
+    {
+      "id": "tm_G5eVZ_FXYweIU",
+      "artist": "Trampled By Turtles",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Indie Folk",
+        "Folk"
+      ],
+      "date": "2026-10-08",
+      "url": "https://www.ticketmaster.com/trampled-by-turtles-wilmington-north-carolina-10-08-2026/event/2D00648FB0C82A36"
+    },
+    {
+      "id": "tm_vvG1zZ_5mNglOv",
+      "artist": "Daniel Donato",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2026-10-03",
+      "url": "https://www.ticketmaster.com/daniel-donatos-cosmic-country-atlanta-georgia-10-03-2026/event/0E0064BBA3D6B801"
     }
   ]
 }
