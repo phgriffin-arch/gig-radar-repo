@@ -233,31 +233,51 @@ async function ghDispatchWorkflow(){
   }
 }
 
+let allMatchesRaw = [];
+
+function matchesCurrentWatchlist(show, watchlist){
+  const artistLower = (show.artist || "").toLowerCase();
+  const tagsLower = (show.genres || []).map(g => g.toLowerCase());
+  for(const item of watchlist){
+    const value = item.value.toLowerCase();
+    if(item.kind === "artist" && (value.includes(artistLower) || artistLower.includes(value))) return true;
+    if(item.kind === "genre" && tagsLower.some(tag => tag.includes(value))) return true;
+  }
+  return false;
+}
+
+function renderFilteredMatches(){
+  const el = document.getElementById("showsList");
+  const shows = allMatchesRaw
+    .filter(s => matchesCurrentWatchlist(s, lastWatchlistItems))
+    .sort((a,b) => (a.date||"").localeCompare(b.date||""));
+  if(!shows.length){
+    el.innerHTML = `<div class="empty">Nothing on the current watchlist has matched yet.</div>`;
+    return;
+  }
+  el.innerHTML = shows.map(s => `
+    <div class="show-card">
+      <div>
+        <div class="show-artist">${escapeHtml(s.artist)}</div>
+        <div class="show-meta">${escapeHtml(s.venue)} — ${escapeHtml(s.date)}</div>
+      </div>
+      ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener">Tickets</a>` : ""}
+    </div>
+  `).join("");
+}
+
 async function loadMatches(){
   try{
     const res = await fetch("data/matches.json?_=" + Date.now());
     const data = await res.json();
-    const el = document.getElementById("showsList");
     const lastChecked = document.getElementById("lastChecked");
 
     lastChecked.textContent = data.last_checked
       ? `Last checked: ${new Date(data.last_checked).toLocaleString()}`
       : "Not checked yet — the scheduled run hasn't fired.";
 
-    const shows = (data.matches || []).slice().sort((a,b) => (a.date||"").localeCompare(b.date||""));
-    if(!shows.length){
-      el.innerHTML = `<div class="empty">Nothing matched yet.</div>`;
-      return;
-    }
-    el.innerHTML = shows.map(s => `
-      <div class="show-card">
-        <div>
-          <div class="show-artist">${escapeHtml(s.artist)}</div>
-          <div class="show-meta">${escapeHtml(s.venue)} — ${escapeHtml(s.date)}</div>
-        </div>
-        ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener">Tickets</a>` : ""}
-      </div>
-    `).join("");
+    allMatchesRaw = data.matches || [];
+    renderFilteredMatches();
   }catch(e){
     document.getElementById("lastChecked").textContent = "Couldn't load matches.json.";
   }
@@ -272,17 +292,18 @@ function renderWatchlistChips(items){
   const el = document.getElementById("watchlistChips");
   if(!items.length){
     el.innerHTML = `<div class="empty">Nothing on the watchlist yet.</div>`;
-    return;
+  } else {
+    el.innerHTML = items.map(i => `
+      <div class="chip">
+        <span class="kind">${escapeHtml(i.kind)}</span>${escapeHtml(i.value)}
+        <button data-kind="${escapeHtml(i.kind)}" data-value="${escapeHtml(i.value)}" title="Remove" ${hasToken() ? "" : "disabled"}>×</button>
+      </div>
+    `).join("");
+    el.querySelectorAll("button[data-kind]").forEach(btn => {
+      btn.addEventListener("click", () => removeFromWatchlist(btn.dataset.kind, btn.dataset.value));
+    });
   }
-  el.innerHTML = items.map(i => `
-    <div class="chip">
-      <span class="kind">${escapeHtml(i.kind)}</span>${escapeHtml(i.value)}
-      <button data-kind="${escapeHtml(i.kind)}" data-value="${escapeHtml(i.value)}" title="Remove" ${hasToken() ? "" : "disabled"}>×</button>
-    </div>
-  `).join("");
-  el.querySelectorAll("button[data-kind]").forEach(btn => {
-    btn.addEventListener("click", () => removeFromWatchlist(btn.dataset.kind, btn.dataset.value));
-  });
+  renderFilteredMatches();
 }
 
 async function loadWatchlist(){
