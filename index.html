@@ -188,8 +188,13 @@ function escapeHtml(s){
 async function ghGetFile(path){
   const res = await fetch(`${API}/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${path}?ref=${GITHUB_BRANCH}`, {
     headers: ghHeaders(),
+    cache: "no-store",
   });
-  if(!res.ok) throw new Error(`Couldn't read ${path} (${res.status})`);
+  if(!res.ok){
+    const err = new Error(`Couldn't read ${path} (${res.status})`);
+    err.isConflict = res.status === 409;
+    throw err;
+  }
   const data = await res.json();
   return { json: JSON.parse(b64DecodeUtf8(data.content)), sha: data.sha };
 }
@@ -204,6 +209,7 @@ async function ghPutFile(path, obj, sha, message){
   const res = await fetch(`${API}/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${path}`, {
     method: "PUT",
     headers: ghHeaders(),
+    cache: "no-store",
     body: JSON.stringify(body),
   });
   if(!res.ok){
@@ -218,6 +224,7 @@ async function ghDispatchWorkflow(){
   const res = await fetch(`${API}/repos/${GITHUB_OWNER}/${GITHUB_REPO}/actions/workflows/check.yml/dispatches`, {
     method: "POST",
     headers: ghHeaders(),
+    cache: "no-store",
     body: JSON.stringify({ ref: GITHUB_BRANCH }),
   });
   if(!res.ok){
@@ -304,7 +311,8 @@ function setWatchlistControlsEnabled(enabled){
   });
 }
 
-async function withFreshWatchlist(fn, isRetry){
+async function withFreshWatchlist(fn, attempt){
+  attempt = attempt || 1;
   // Always re-fetch via the API right before writing, so we have the current
   // sha even if someone else (or the Actions bot) changed the file since page load.
   const { json, sha } = await ghGetFile("watchlist.json");
@@ -312,11 +320,13 @@ async function withFreshWatchlist(fn, isRetry){
   try{
     return await fn(json, sha);
   }catch(e){
-    // Someone else's write landed between our read and our write (e.g. a
-    // double-click or two edits happening close together) — refetch the
-    // now-current file and try exactly once more before giving up.
-    if(e.isConflict && !isRetry){
-      return withFreshWatchlist(fn, true);
+    // A conflict here means the file changed between our read and our write —
+    // either an overlapping click, or GitHub's own systems taking a moment to
+    // catch up right after a previous write. Back off briefly and retry with
+    // a fresh read, up to a couple of times, before giving up.
+    if(e.isConflict && attempt < 3){
+      await new Promise(r => setTimeout(r, 300 * attempt));
+      return withFreshWatchlist(fn, attempt + 1);
     }
     throw e;
   }
