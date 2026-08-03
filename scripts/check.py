@@ -78,7 +78,10 @@ def fetch_ticketmaster(api_key: str, lat: float, lng: float, radius: float) -> l
         }
         r = requests.get("https://app.ticketmaster.com/discovery/v2/events.json", params=params, timeout=15)
         if r.status_code != 200:
-            print(f"  Ticketmaster request failed: {r.status_code}")
+            if shows:
+                print(f"  Ticketmaster: stopped after {len(shows)} show(s) (hit their result-window limit on page {page}, not an error)")
+            else:
+                print(f"  Ticketmaster request failed: {r.status_code}")
             break
         data = r.json()
         events = data.get("_embedded", {}).get("events", [])
