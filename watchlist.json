@@ -1,23 +1,74 @@
 {
   "home_zip": "29928",
   "radius_miles": 250,
-
   "watchlist": [
-    { "kind": "artist", "value": "Tank and the Bangas" },
-    { "kind": "artist", "value": "Samantha Fish" },
-    { "kind": "artist", "value": "Ally Venable" },
-    { "kind": "artist", "value": "Ghalia Volt" },
-    { "kind": "artist", "value": "Carolyn Wonderland" },
-    { "kind": "artist", "value": "Joanne Shaw Taylor" },
-    { "kind": "artist", "value": "Ruthie Foster" },
-    { "kind": "artist", "value": "Joanna Connor" },
-    { "kind": "artist", "value": "Albert Cummings" },
-    { "kind": "artist", "value": "Ana Popovic" },
-    { "kind": "artist", "value": "Jackie Venson" },
-    { "kind": "artist", "value": "Mike Zito" },
-    { "kind": "artist", "value": "Sue Foley" },
-    { "kind": "artist", "value": "Poppa Chubby" },
-    { "kind": "genre", "value": "blues" },
-    { "kind": "genre", "value": "bluegrass" }
+    {
+      "kind": "artist",
+      "value": "Tank and the Bangas"
+    },
+    {
+      "kind": "artist",
+      "value": "Samantha Fish"
+    },
+    {
+      "kind": "artist",
+      "value": "Ally Venable"
+    },
+    {
+      "kind": "artist",
+      "value": "Ghalia Volt"
+    },
+    {
+      "kind": "artist",
+      "value": "Carolyn Wonderland"
+    },
+    {
+      "kind": "artist",
+      "value": "Joanne Shaw Taylor"
+    },
+    {
+      "kind": "artist",
+      "value": "Ruthie Foster"
+    },
+    {
+      "kind": "artist",
+      "value": "Joanna Connor"
+    },
+    {
+      "kind": "artist",
+      "value": "Albert Cummings"
+    },
+    {
+      "kind": "artist",
+      "value": "Ana Popovic"
+    },
+    {
+      "kind": "artist",
+      "value": "Jackie Venson"
+    },
+    {
+      "kind": "artist",
+      "value": "Mike Zito"
+    },
+    {
+      "kind": "artist",
+      "value": "Sue Foley"
+    },
+    {
+      "kind": "artist",
+      "value": "Poppa Chubby"
+    },
+    {
+      "kind": "genre",
+      "value": "blues"
+    },
+    {
+      "kind": "genre",
+      "value": "bluegrass"
+    },
+    {
+      "kind": "genre",
+      "value": "indie"
+    }
   ]
 }
