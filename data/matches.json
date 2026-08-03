@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-03T17:36:44.436789+00:00",
+  "last_checked": "2026-08-03T17:40:27.520539+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -714,6 +714,3841 @@
       ],
       "date": "2026-08-11",
       "url": "https://www.facebook.com/SkylerSaufleyMusic"
+    },
+    {
+      "id": "tm_vvG1zZ_6d_IGUK",
+      "artist": "Weezer",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-10",
+      "url": "https://www.ticketmaster.com/weezer-the-gathering-atlanta-georgia-10-10-2026/event/0E006470D9A0CD93"
+    },
+    {
+      "id": "tm_vvG1zZ_1p_clEl",
+      "artist": "Journey",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-19",
+      "url": "https://www.ticketmaster.com/journey-final-frontier-tour-an-evening-atlanta-georgia-10-19-2026/event/0E0064A599B6B9EB"
+    },
+    {
+      "id": "tm_vvG1zZ_6Dbxqs6",
+      "artist": "Johnny Blue Skies",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-25",
+      "url": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-atlanta-georgia-10-25-2026/event/0E00647ED889DC47"
+    },
+    {
+      "id": "tm_vvG1zZ_1hoxUDT",
+      "artist": "Niall Horan",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2027-04-28",
+      "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-atlanta-georgia-04-28-2027/event/0E0064A6D18B6EFF"
+    },
+    {
+      "id": "tm_vvG1zZ_65ZOBBy",
+      "artist": "The Doobie Brothers",
+      "venue": "Enmarket Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-18",
+      "url": "https://www.ticketmaster.com/the-doobie-brothers-walk-this-road-savannah-georgia-10-18-2026/event/0E006472C083AEB9"
+    },
+    {
+      "id": "tm_vvG1zZ_A6tOPi2",
+      "artist": "Mumford & Sons",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-04",
+      "url": "https://www.ticketmaster.com/mumford-sons-prizefighter-tour-atlanta-georgia-08-04-2026/event/0E006451E9825B0F"
+    },
+    {
+      "id": "tm_vvG1zZbgd3i_aC",
+      "artist": "RUSH",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-25",
+      "url": "https://www.ticketmaster.com/rush-fifty-something-atlanta-georgia-11-25-2026/event/0E006350D2B1924E"
+    },
+    {
+      "id": "tm_vvG1zZbgQ3ik-i",
+      "artist": "RUSH",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-27",
+      "url": "https://www.ticketmaster.com/rush-fifty-something-atlanta-georgia-11-27-2026/event/0E00635692B0686C"
+    },
+    {
+      "id": "tm_vvG1zZ_73EIk7i",
+      "artist": "The Neighbourhood",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-10",
+      "url": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-atlanta-georgia-11-10-2026/event/0E006444A7A0612C"
+    },
+    {
+      "id": "tm_G5eVZ_18w8Hrl",
+      "artist": "MercyMe",
+      "venue": "North Charleston Coliseum",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/mercyme-jeremy-camp-tim-timmons-sam-north-charleston-south-carolina-10-09-2026/event/2D0064A43243C7AB"
+    },
+    {
+      "id": "tm_G5eVZ_kMc5CGL",
+      "artist": "Weezer",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-03",
+      "url": "https://www.ticketmaster.com/weezer-the-gathering-charlotte-north-carolina-10-03-2026/event/2D00646DED2CE31F"
+    },
+    {
+      "id": "tm_vvG1zZ_G68Ii_o",
+      "artist": "Phoebe Bridgers",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-13",
+      "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-atlanta-georgia-10-13-2026/event/0E0064C1D0A2C651"
+    },
+    {
+      "id": "tm_G5eVZ_6nYWL02",
+      "artist": "Benson Boone",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-26",
+      "url": "https://www.ticketmaster.com/benson-boone-wanted-man-tour-charlotte-north-carolina-08-26-2026/event/2D00647AB0F5F90F"
+    },
+    {
+      "id": "tm_vvG1zZ_FxEt19L",
+      "artist": "Sombr",
+      "venue": "State Farm Arena",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-22",
+      "url": "https://www.ticketmaster.com/sombr-you-are-the-reason-tour-atlanta-georgia-10-22-2026/event/0E006488A7A4A5DF"
+    },
+    {
+      "id": "tm_G5eVZ_A7ZtCkM",
+      "artist": "Mumford & Sons",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-09",
+      "url": "https://www.ticketmaster.com/mumford-sons-prizefighter-tour-charlotte-north-carolina-08-09-2026/event/2D00645100A4E1B7"
+    },
+    {
+      "id": "tm_G5eVZbgQ1U0m8",
+      "artist": "RUSH",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/rush-fifty-something-charlotte-north-carolina-11-22-2026/event/2D0063568ADA4B90"
+    },
+    {
+      "id": "tm_G5eVZ_6z4vLfq",
+      "artist": "Johnny Blue Skies",
+      "venue": "Credit One Stadium ",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-23",
+      "url": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-charleston-south-carolina-10-23-2026/event/2D00647E1505F51D"
+    },
+    {
+      "id": "tm_vvG1zZ_unV7iU_",
+      "artist": "ZZ Top",
+      "venue": "VyStar Pavilion",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/zz-top-port-wentworth-georgia-10-09-2026/event/0E0064DAB412CD99"
+    },
+    {
+      "id": "tm_G5eVZbgkYZarC",
+      "artist": "RUSH",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.ticketmaster.com/rush-fifty-something-charlotte-north-carolina-11-20-2026/event/2D006351B000978E"
+    },
+    {
+      "id": "tm_G5eVZ_e9fQ54p",
+      "artist": "James Taylor",
+      "venue": "Credit One Stadium ",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-20",
+      "url": "https://www.ticketmaster.com/james-taylor-charleston-south-carolina-09-20-2026/event/2D006425D468B556"
+    },
+    {
+      "id": "tm_G5eVZ_1Dw8JeW",
+      "artist": "The Smashing Pumpkins",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-16",
+      "url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-charlotte-north-carolina-10-16-2026/event/2D0064AEF24260BD"
+    },
+    {
+      "id": "tm_G5eVZ_ARLU-M4",
+      "artist": "Gorillaz",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-23",
+      "url": "https://www.ticketmaster.com/gorillaz-the-mountain-tour-charlotte-north-carolina-09-23-2026/event/2D00645BDFDA1DD5"
+    },
+    {
+      "id": "tm_G5eVZ_5RxRwDv",
+      "artist": "Phoebe Bridgers",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-charlotte-north-carolina-10-09-2026/event/2D0064BBE2BF2EC1"
+    },
+    {
+      "id": "tm_G5eVZ_kVFM6ZO",
+      "artist": "Bryan Adams",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-08",
+      "url": "https://www.ticketmaster.com/bryan-adams-roll-with-the-punches-charlotte-north-carolina-08-08-2026/event/2D00646D08DC7020"
+    },
+    {
+      "id": "tm_G5eVZ_kljvbYy",
+      "artist": "Brandi Carlile",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-01",
+      "url": "https://www.ticketmaster.com/brandi-carlile-the-human-tour-charlotte-north-carolina-09-01-2026/event/2D00646ADC058C39"
+    },
+    {
+      "id": "tm_G5eVZ_erE3bLD",
+      "artist": "James Taylor",
+      "venue": "Colonial Life Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-11",
+      "url": "https://www.ticketmaster.com/james-taylor-columbia-south-carolina-09-11-2026/event/2D006427A74987FB"
+    },
+    {
+      "id": "tm_G5eVZ_FNeQEvn",
+      "artist": "Sombr",
+      "venue": "Spectrum Center",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-27",
+      "url": "https://www.ticketmaster.com/sombr-you-are-the-reason-tour-charlotte-north-carolina-10-27-2026/event/2D006488C26A706A"
+    },
+    {
+      "id": "tm_G5eVZbz1IXhZ7",
+      "artist": "Goo Goo Dolls",
+      "venue": "Credit One Stadium ",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-29",
+      "url": "https://www.ticketmaster.com/goo-goo-dolls-summer-2026-charleston-south-carolina-08-29-2026/event/2D006382A8F9B004"
+    },
+    {
+      "id": "tm_vvG1zZ_2DuAjwW",
+      "artist": "Third Day",
+      "venue": "VyStar Pavilion",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2027-04-08",
+      "url": "https://www.ticketmaster.com/third-day-with-very-special-guest-port-wentworth-georgia-04-08-2027/event/0E0064FECD15CCBD"
+    },
+    {
+      "id": "tm_vvG1zZ_u29hrCt",
+      "artist": "Jim Messina",
+      "venue": "District Live",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-15",
+      "url": "https://www.ticketmaster.com/jim-messina-savannah-georgia-10-15-2026/event/0E0064D3D76DE3A9"
+    },
+    {
+      "id": "tm_G5eVZ_aUuWRFC",
+      "artist": "Black Jacket Symphony",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-10",
+      "url": "https://www.ticketmaster.com/the-black-jacket-symphony-presents-def-charleston-south-carolina-10-10-2026/event/2D00649D8DF6F20E"
+    },
+    {
+      "id": "tm_vvG1zZ_G9fZ3qF",
+      "artist": "The Brook & The Bluff",
+      "venue": "Victory North Savannah",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-13",
+      "url": "https://thebrookandthebluffsavannah2026.eventbrite.com/"
+    },
+    {
+      "id": "tm_G5eVZ_FxaTI4E",
+      "artist": "Three Dog Night",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-22",
+      "url": "https://www.ticketmaster.com/three-dog-night-charleston-south-carolina-08-22-2026/event/2D00648889FE8567"
+    },
+    {
+      "id": "tm_vvG1zZ_ar4El51",
+      "artist": "Caamp",
+      "venue": "VyStar Pavilion",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-06",
+      "url": "https://www.ticketmaster.com/caamp-port-wentworth-georgia-10-06-2026/event/0E006497959EB2CA"
+    },
+    {
+      "id": "tm_G5eVZ_1pRrMRM",
+      "artist": "SWITCHFOOT",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-22",
+      "url": "https://www.ticketmaster.com/switchfoot-with-special-guest-anberlin-forever-charleston-south-carolina-09-22-2026/event/2D0064A5AF7B7BF7"
+    },
+    {
+      "id": "tm_G5eVZ_1U-a2Li",
+      "artist": "Night Ranger",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-21",
+      "url": "https://www.ticketmaster.com/night-ranger-charleston-south-carolina-08-21-2026/event/2D0064ADA124F7EC"
+    },
+    {
+      "id": "tm_G5eVZbY3W0wOR",
+      "artist": "Big Head Todd & the Monsters",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.ticketmaster.com/big-head-todd-the-monsters-winter-charleston-south-carolina-11-20-2026/event/2D006304BD93282F"
+    },
+    {
+      "id": "tm_G5eVZ_kzqs9Jf",
+      "artist": "Hawthorne Heights",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-01",
+      "url": "https://www.ticketmaster.com/hawthorne-heights-20th-anniversary-of-if-charleston-south-carolina-11-01-2026/event/2D00646E1DC57994"
+    },
+    {
+      "id": "tm_G5eVZ_2pfRFTe",
+      "artist": "The Marshall Tucker Band",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-16",
+      "url": "https://www.ticketmaster.com/the-marshall-tucker-band-charleston-south-carolina-10-16-2026/event/2D0064F594BC8FC2"
+    },
+    {
+      "id": "tm_G5eVZ_6EqjDu0",
+      "artist": "Big Head Todd & the Monsters",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.ticketmaster.com/big-head-todd-the-monsters-winter-charleston-south-carolina-11-19-2026/event/2D006479DD73B364"
+    },
+    {
+      "id": "tm_G5eVZ_6d_vEAl",
+      "artist": "Little Feat",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-14",
+      "url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-charleston-south-carolina-09-14-2026/event/2D006470D906716B"
+    },
+    {
+      "id": "tm_G5eVZ_6d_VE33",
+      "artist": "Little Feat",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-15",
+      "url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-charleston-south-carolina-09-15-2026/event/2D006470D9D27492"
+    },
+    {
+      "id": "tm_G5eVZ_Adk5iT3",
+      "artist": "Phil Wickham",
+      "venue": "Colonial Life Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-08",
+      "url": "https://www.ticketmaster.com/song-of-the-saints-tour-with-columbia-south-carolina-10-08-2026/event/2D006450C62ECFD2"
+    },
+    {
+      "id": "tm_G5eVZ_aBJr05b",
+      "artist": "Gin Blossoms",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-31",
+      "url": "https://www.ticketmaster.com/gin-blossoms-charleston-south-carolina-08-31-2026/event/2D00649EA67A42D8"
+    },
+    {
+      "id": "tm_G5eVZ_1xBqLce",
+      "artist": "Band of Horses",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-27",
+      "url": "https://www.ticketmaster.com/an-evening-with-band-of-horses-charleston-south-carolina-11-27-2026/event/2D0064A8BA75FB42"
+    },
+    {
+      "id": "tm_G5eVZ_1xywRJL",
+      "artist": "Band of Horses",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-25",
+      "url": "https://www.ticketmaster.com/an-evening-with-band-of-horses-charleston-south-carolina-11-25-2026/event/2D0064A8B9CAF99F"
+    },
+    {
+      "id": "tm_G5eVZ_1N7X0Pm",
+      "artist": "Cannons",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Punk",
+        "Rock"
+      ],
+      "date": "2026-10-12",
+      "url": "https://www.ticketmaster.com/cannons-the-everything-glows-tour-charleston-south-carolina-10-12-2026/event/2D0064A8C4FA496E"
+    },
+    {
+      "id": "tm_G5eVZ_aLWQT0Y",
+      "artist": "Toadies",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-06",
+      "url": "https://www.ticketmaster.com/toadies-the-charmer-tour-charleston-south-carolina-08-06-2026/event/2D006497FD6BF930"
+    },
+    {
+      "id": "tm_G5eVZbV5RLBOo",
+      "artist": "Leo Kottke",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2027-01-20",
+      "url": "https://www.ticketmaster.com/an-evening-with-leo-kottke-charleston-south-carolina-01-20-2027/event/2D006342EF7FA811"
+    },
+    {
+      "id": "tm_G5eVZ_udjbWP-",
+      "artist": "Wednesday",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-05",
+      "url": "https://www.ticketmaster.com/bitch-cabal-feat-wednesday-mannequin-pussy-charleston-south-carolina-11-05-2026/event/2D0064D0DC63D961"
+    },
+    {
+      "id": "tm_G5eVZ_aM1SNmk",
+      "artist": "Paula Cole",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/paula-cole-this-fire-30-charleston-south-carolina-11-13-2026/event/2D00649DCACE3B86"
+    },
+    {
+      "id": "tm_G5eVZ_FCHmbEq",
+      "artist": "The Mars Volta",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-16",
+      "url": "https://www.ticketmaster.com/the-mars-volta-charleston-south-carolina-09-16-2026/event/2D006483BCB989DD"
+    },
+    {
+      "id": "tm_G5eVZ_Gw4gG1z",
+      "artist": "Hot Mulligan",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-11",
+      "url": "https://www.ticketmaster.com/hot-mulligan-north-american-fall-tour-charleston-south-carolina-11-11-2026/event/2D0064CC95D4C2B8"
+    },
+    {
+      "id": "tm_G5eVZ_ur9FF1l",
+      "artist": "Bayside",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-30",
+      "url": "https://www.ticketmaster.com/bayside-charleston-south-carolina-09-30-2026/event/2D0064D7972082AB"
+    },
+    {
+      "id": "tm_G5eVZ_1rV0T0a",
+      "artist": "SC Ballet Presents Sleeping Beauty",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2027-02-11",
+      "url": "https://www.ticketmaster.com/sc-ballet-presents-sleeping-beauty-charleston-south-carolina-02-11-2027/event/2D0064A7B493F909"
+    },
+    {
+      "id": "tm_vvG1zZ_A1KGMlg",
+      "artist": "Foreigner",
+      "venue": "Bell Auditorium",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/foreigner-celebrating-fifty-years-augusta-georgia-09-19-2026/event/0E00645293337AF5"
+    },
+    {
+      "id": "tm_G5eVZ_kpTD0cz",
+      "artist": "Phil Wickham",
+      "venue": "Colonial Life Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-08",
+      "url": "https://travel.ticketmaster.com/en-US/package-forward/64457344?_uid=ac74da7d-8f54-4d50-8b7e-dbdb135f1d70&utm_source=TPR&utm_medium=TMADP_Wickham_108"
+    },
+    {
+      "id": "tm_G5eVZ_ACXUNyi",
+      "artist": "NEEDTOBREATHE",
+      "venue": "Firefly Distillery",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-06",
+      "url": "https://www.ticketmaster.com/needtobreathe-the-long-surrender-tour-north-charleston-south-carolina-09-06-2026/event/2D006453BEDA3E6C"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af0fGK",
+      "artist": "Beartooth",
+      "venue": "The Refinery",
+      "genres": [
+        "Pop Punk",
+        "Punk",
+        "Rock",
+        "Hardcore Punk"
+      ],
+      "date": "2026-12-02",
+      "url": "https://www.ticketweb.com/event/beartooth-pure-ecstasy-the-refinery-tickets/14914313"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af0fZS",
+      "artist": "Collective Soul",
+      "venue": "The Refinery",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-09-11",
+      "url": "https://www.ticketweb.com/event/collective-soul-the-refinery-tickets/14914033"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af0-_S",
+      "artist": "The Psycodelics",
+      "venue": "The Refinery",
+      "genres": [
+        "Boogie Rock",
+        "Funk-Rock",
+        "Rock"
+      ],
+      "date": "2026-09-12",
+      "url": "https://www.ticketweb.com/event/the-6th-annual-drifter-fest-the-refinery-tickets/14921673"
+    },
+    {
+      "id": "tm_G5eVZ_u1OoqMa",
+      "artist": "The Wrecks",
+      "venue": "Music Farm",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/the-wrecks-finally-outside-tour-charleston-south-carolina-11-13-2026/event/2D0064D2A045DDC9"
+    },
+    {
+      "id": "tm_G5eVZ_FCH8Iq6",
+      "artist": "Kurt Vile & the Violators",
+      "venue": "Music Farm",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-21",
+      "url": "https://www.ticketmaster.com/kurt-vile-the-violators-charleston-south-carolina-11-21-2026/event/2D006483BC428747"
+    },
+    {
+      "id": "tm_G5eVZ_GCy7QjM",
+      "artist": "Scene Queen",
+      "venue": "Music Farm",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-20",
+      "url": "https://www.ticketmaster.com/scene-queen-metalicious-charleston-south-carolina-10-20-2026/event/2D0064C3B911A737"
+    },
+    {
+      "id": "tm_G5eVZ_FMfdhNR",
+      "artist": "The Bouncing Souls",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-11",
+      "url": "https://www.ticketmaster.com/the-bouncing-souls-born-to-be-charleston-south-carolina-09-11-2026/event/2D00648DD40DB8EF"
+    },
+    {
+      "id": "tm_17FOv0G61T4W29c",
+      "artist": "The Smashing Pumpkins",
+      "venue": "VyStar Veterans Memorial Arena",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-17",
+      "url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-jacksonville-florida-10-17-2026/event/220064AFD5F4F5ED"
+    },
+    {
+      "id": "tm_G5eVZ_ahHJX-d",
+      "artist": "Willow Avalon",
+      "venue": "Music Farm",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-07",
+      "url": "https://www.ticketmaster.com/willow-avalon-pink-pocket-pistol-tour-charleston-south-carolina-10-07-2026/event/2D006496FC9BE843"
+    },
+    {
+      "id": "tm_G5eVZ_F20dV8W",
+      "artist": "The Aquabats!",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-03",
+      "url": "https://www.ticketmaster.com/the-aquabats-charleston-south-carolina-09-03-2026/event/2D006483E40F443D"
+    },
+    {
+      "id": "tm_G5eVZ_59Q7Tl3",
+      "artist": "Daddy's Beemer",
+      "venue": "Music Farm",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-21",
+      "url": "https://www.ticketmaster.com/charleston-indie-night-charleston-south-carolina-08-21-2026/event/2D0064B5DA13FAD2"
+    },
+    {
+      "id": "tm_G5eVZ_CrxrnPZ",
+      "artist": "Run River Run with Special Guest Forty Mile Detour",
+      "venue": "Music Farm",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-26",
+      "url": "https://www.ticketmaster.com/run-river-run-with-special-guest-charleston-south-carolina-08-26-2026/event/2D0064E7A27AA940"
+    },
+    {
+      "id": "tm_G5eVZ_655bUP8",
+      "artist": "JET",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketmaster.com/jet-down-the-moonlit-mile-revue-charleston-south-carolina-09-18-2026/event/2D006472CB636950"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Afr4uS",
+      "artist": "The Movement",
+      "venue": "The Refinery",
+      "genres": [
+        "Rock Steady",
+        "Pop",
+        "Reggae",
+        "Rock"
+      ],
+      "date": "2026-09-05",
+      "url": "https://www.ticketweb.com/event/the-movement-pepper-the-refinery-tickets/14795373"
+    },
+    {
+      "id": "tm_1kFOv0uzGAubKdk",
+      "artist": "Tedeschi Trucks Band",
+      "venue": "The St. Augustine Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.axs.com/events/1305011/tedeschi-trucks-band-future-soul-2026-tour-tickets"
+    },
+    {
+      "id": "tm_1kFOv0uzGAuTNk-",
+      "artist": "Tedeschi Trucks Band",
+      "venue": "The St. Augustine Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-10",
+      "url": "https://www.axs.com/events/1305012/tedeschi-trucks-band-future-soul-2026-tour-tickets"
+    },
+    {
+      "id": "tm_G5eVZ_G5lRx3i",
+      "artist": "Augustana",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-16",
+      "url": "https://www.ticketmaster.com/augustana-all-the-stars-and-boulevards-charleston-south-carolina-08-16-2026/event/2D0064C2EBBE24AC"
+    },
+    {
+      "id": "tm_G5eVZ_GNyxH24",
+      "artist": "Nirvani",
+      "venue": "Music Farm",
+      "genres": [
+        "Punk",
+        "Rock"
+      ],
+      "date": "2026-08-06",
+      "url": "https://www.ticketmaster.com/nirvani-a-nirvana-tribute-experience-charleston-south-carolina-08-06-2026/event/2D0064C8F98BC3D5"
+    },
+    {
+      "id": "tm_G5eVZ_5RTSQOZ",
+      "artist": "Donavon Frankenreiter",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-23",
+      "url": "https://www.ticketmaster.com/donavon-frankenreiter-charleston-south-carolina-08-23-2026/event/2D0064BBFFCDA800"
+    },
+    {
+      "id": "tm_G5eVZ_GxWWFK7",
+      "artist": "WesGhost",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-12",
+      "url": "https://www.ticketmaster.com/wesghost-if-its-not-forever-the-charleston-south-carolina-11-12-2026/event/2D0064C8BDF484C4"
+    },
+    {
+      "id": "tm_G5eVZ_59b-2bW",
+      "artist": "The Bends",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/the-bends-charleston-south-carolina-11-22-2026/event/2D0064B5D884F63D"
+    },
+    {
+      "id": "tm_G5eVZ_5wJO-Yf",
+      "artist": "Nevertel",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-14",
+      "url": "https://www.ticketmaster.com/nevertel-charleston-south-carolina-10-14-2026/event/2D0064BCA6821C14"
+    },
+    {
+      "id": "tm_G5eVZ_G1Jg_TY",
+      "artist": "Holywatr",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-07",
+      "url": "https://www.ticketmaster.com/holywatr-charleston-south-carolina-11-07-2026/event/2D0064C2A6D59FF0"
+    },
+    {
+      "id": "tm_G5eVZ_u10GCEK",
+      "artist": "Russian Circles",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-08",
+      "url": "https://www.ticketmaster.com/russian-circles-charleston-south-carolina-10-08-2026/event/2D0064D2A430E9D3"
+    },
+    {
+      "id": "tm_G5eVZ_6KtEcck",
+      "artist": "Cheekface",
+      "venue": "Music Farm",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-09",
+      "url": "https://www.ticketmaster.com/cheekface-w-special-guest-catbite-charleston-south-carolina-09-09-2026/event/2D006474E99EDB46"
+    },
+    {
+      "id": "tm_vvG1zZ_121qqS7",
+      "artist": "MercyMe",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-16",
+      "url": "https://www.ticketmaster.com/mercyme-jeremy-camp-tim-timmons-sam-duluth-georgia-10-16-2026/event/0E0064A3CA75DCC4"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfxKfd",
+      "artist": "Portugal. The Man",
+      "venue": "The Refinery",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-08-11",
+      "url": "https://www.ticketweb.com/event/portugal-the-man-the-refinery-tickets/14893503"
+    },
+    {
+      "id": "tm_G5eVZbRezpyuK",
+      "artist": "The Rock and Roll Playhouse",
+      "venue": "The Riviera Theater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2027-10-21",
+      "url": "https://www.ticketmaster.com/the-music-of-hootie-the-blowfish-charleston-south-carolina-10-21-2027/event/2D0062F0B85B9353"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Afkojf",
+      "artist": "Judah & the Lion",
+      "venue": "The Refinery",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-11-08",
+      "url": "https://www.ticketweb.com/event/judah-the-lion-the-refinery-tickets/14191714"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af0zOK",
+      "artist": "TYLER RAMSEY & CARL BROEMEL    ( OF MY MORNING JACKET ) - CELESTUN TOUR",
+      "venue": "The Refinery",
+      "genres": [
+        "Folk Rock",
+        "Rock"
+      ],
+      "date": "2026-08-06",
+      "url": "https://www.ticketweb.com/event/tyler-ramsey-carl-broemel-the-refinery-tickets/14938813"
+    },
+    {
+      "id": "tm_17FOv0G61mS8Awl",
+      "artist": "Rise Against",
+      "venue": "The St. Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-26",
+      "url": "https://www.axs.com/events/1438413/rise-against-ricochet-2026-tickets"
+    },
+    {
+      "id": "tm_16xZk8ya4ZA5kua1",
+      "artist": "The Fray",
+      "venue": "The St. Augustine Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-08",
+      "url": "https://www.axs.com/events/1305015/the-fray-tickets"
+    },
+    {
+      "id": "tm_1AeFZbgGkBuHewl",
+      "artist": "O.A.R.",
+      "venue": "The St. Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-14",
+      "url": "https://www.axs.com/events/1206373/oar-three-decades-tour-tickets"
+    },
+    {
+      "id": "tm_vvG1zZ_FL7wjP8",
+      "artist": "Zach Williams",
+      "venue": "Columbia County Performing Arts Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/zach-williams-with-cochren-co-and-evans-georgia-11-13-2026/event/0E006487C4C9C950"
+    },
+    {
+      "id": "tm_vvG1zZ_FxgMGj7",
+      "artist": "Black Jacket Symphony",
+      "venue": "Columbia County Performing Arts Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/the-black-jacket-symphony-presents-def-evans-georgia-10-09-2026/event/0E006488B5DCC704"
+    },
+    {
+      "id": "tm_vvG1zZ_2rlfnnh",
+      "artist": "Blackberry Smoke",
+      "venue": "Columbia County Performing Arts Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.ticketmaster.com/blackberry-smoke-25th-anniversary-tour-2026-evans-georgia-11-20-2026/event/0E0064F7AB52AA9B"
+    },
+    {
+      "id": "tm_G5eVZ_1KjA7dE",
+      "artist": "MercyMe",
+      "venue": "Bon Secours Wellness Arena ",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-22",
+      "url": "https://www.ticketmaster.com/mercyme-jeremy-camp-tim-timmons-sam-greenville-south-carolina-10-22-2026/event/2D0064A4DC1440E7"
+    },
+    {
+      "id": "tm_G5eVZ_1K1vuwb",
+      "artist": "Journey",
+      "venue": "Bon Secours Wellness Arena ",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-14",
+      "url": "https://www.ticketmaster.com/journey-final-frontier-tour-an-evening-greenville-south-carolina-11-14-2026/event/2D0064A4CA04DC98"
+    },
+    {
+      "id": "tm_17FOv0G65UYCUOo",
+      "artist": "Gov't Mule",
+      "venue": "The St. Augustine Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-03",
+      "url": "https://www.axs.com/events/1461638/govt-mule-and-ziggy-marley-tickets?__cf_chl_tk=Ym_Mj2psXZqKdxczcInYM7XFzJCk41R9Zs4OMNnHBkQ-1780071273-1.0.1.1-XYgEHNGkU68rF865f7ltztqhN2UsZ2b_LPl2OEBnjIc"
+    },
+    {
+      "id": "tm_G5eVZ_A2nhl-Y",
+      "artist": "Brit Floyd",
+      "venue": "Township Auditorium",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-16",
+      "url": "https://www.ticketmaster.com/brit-floyd-columbia-south-carolina-08-16-2026/event/2D006453EA6EB870"
+    },
+    {
+      "id": "tm_1AeFZ_kGkTn0I6k",
+      "artist": "Stephen Wilson Jr.",
+      "venue": "The St. Augustine Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-07",
+      "url": "https://www.axs.com/events/1372704/stephen-wilson-jr-gary-the-torch-tour-tickets"
+    },
+    {
+      "id": "tm_vvG1zZ_A22eqVw",
+      "artist": "Foreigner",
+      "venue": "Macon City Auditorium",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketmaster.com/foreigner-celebrating-fifty-years-macon-georgia-09-18-2026/event/0E006453CF09DD32"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70Eoz",
+      "artist": "Air Supply",
+      "venue": "Florida Theatre Jacksonville",
+      "genres": [
+        "Pop",
+        "Pop Rock"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Eoz"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7xZ38",
+      "artist": "Benson Boone",
+      "venue": "VyStar Veterans Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-25",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xZ38"
+    },
+    {
+      "id": "tm_vvG1zZ_5loyCrr",
+      "artist": "Ozark Mountain Daredevils",
+      "venue": "Columbia County Performing Arts Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-28",
+      "url": "https://www.ticketmaster.com/the-ozark-mountain-daredevils-evans-georgia-08-28-2026/event/0E0064BAD1E4E79E"
+    },
+    {
+      "id": "tm_vvG1zZ_7MxKXo2",
+      "artist": "Phil Wickham",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-07",
+      "url": "https://www.ticketmaster.com/song-of-the-saints-tour-with-duluth-georgia-10-07-2026/event/0E00644DE24FE44F"
+    },
+    {
+      "id": "tm_G5eVZ_1mAbbDU",
+      "artist": "Drive-By Truckers",
+      "venue": "The Senate",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-11",
+      "url": "https://www.ticketmaster.com/driveby-truckers-columbia-south-carolina-09-11-2026/event/2D0064AB85618EF6"
+    },
+    {
+      "id": "tm_vvG1zZ_uQsKFm-",
+      "artist": "beabadoobee",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-14",
+      "url": "https://www.ticketmaster.com/beabadoobee-the-powerlines-tour-duluth-georgia-10-14-2026/event/0E0064D6B14C8BA1"
+    },
+    {
+      "id": "tm_vvG1zZ_kfegMV1",
+      "artist": "Brandi Carlile",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-03",
+      "url": "https://www.ticketmaster.com/brandi-carlile-the-human-tour-duluth-georgia-09-03-2026/event/0E00646502D77D0A"
+    },
+    {
+      "id": "tm_G5eVZ_5pTXtrw",
+      "artist": "JJ Grey & Mofro",
+      "venue": "The Senate",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-08",
+      "url": "https://www.ticketmaster.com/jj-grey-mofro-columbia-south-carolina-10-08-2026/event/2D0064B5BFFA97B2"
+    },
+    {
+      "id": "tm_G5eVZ_75kIH33",
+      "artist": "Iron and Wine",
+      "venue": "The Senate",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-29",
+      "url": "https://www.ticketmaster.com/iron-wine-columbia-south-carolina-10-29-2026/event/2D006442C6A3C492"
+    },
+    {
+      "id": "tm_G5eVZ_F2p4Rua",
+      "artist": "Winyah",
+      "venue": "The Senate",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-21",
+      "url": "https://www.ticketmaster.com/winyah-penelope-road-columbia-south-carolina-08-21-2026/event/2D006483D656F349"
+    },
+    {
+      "id": "tm_G5eVZ_15_ClsJ",
+      "artist": "MercyMe",
+      "venue": "Bojangles Coliseum",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-11",
+      "url": "https://www.ticketmaster.com/mercyme-jeremy-camp-tim-timmons-sam-charlotte-north-carolina-10-11-2026/event/2D0064A2D93ABC66"
+    },
+    {
+      "id": "tm_G5eVZ_C6AWuGi",
+      "artist": "The Beths",
+      "venue": "The Senate",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-30",
+      "url": "https://www.ticketmaster.com/the-beths-by-request-tour-columbia-south-carolina-09-30-2026/event/2D0064E1C5F4D32C"
+    },
+    {
+      "id": "tm_G5eVZ_u63vTRI",
+      "artist": "GoldFord",
+      "venue": "The Senate",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/goldford-space-of-the-heart-tour-columbia-south-carolina-09-19-2026/event/2D0064D1D207FBE8"
+    },
+    {
+      "id": "tm_G5eVZ_G9EGuzx",
+      "artist": "The Brook & The Bluff",
+      "venue": "The Senate",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-11",
+      "url": "https://www.ticketmaster.com/the-brook-the-bluff-werewolf-tour-columbia-south-carolina-10-11-2026/event/2D0064C5E730DE22"
+    },
+    {
+      "id": "tm_vvG1zZ_GxzH5yj",
+      "artist": "Jay Park",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-08",
+      "url": "https://www.ticketmaster.com/jay-park-with-special-guest-lngshot-duluth-georgia-09-08-2026/event/0E0064C8B8F0BE5C"
+    },
+    {
+      "id": "tm_G5eVZ_A6jV_-d",
+      "artist": "Foreigner",
+      "venue": "Live Oak Bank Pavilion",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-20",
+      "url": "https://www.ticketmaster.com/foreigner-celebrating-fifty-years-wilmington-north-carolina-09-20-2026/event/2D006451DCD19843"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af-tAS",
+      "artist": "GWAR",
+      "venue": "FIVE",
+      "genres": [
+        "Metal",
+        "Hard Rock",
+        "Rock",
+        "Heavy Metal"
+      ],
+      "date": "2026-10-29",
+      "url": "https://www.ticketweb.com/event/gwar-five-tickets/14869173"
+    },
+    {
+      "id": "tm_G5eVZ_61lqXS-",
+      "artist": "The Doobie Brothers",
+      "venue": "Live Oak Bank Pavilion",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-06",
+      "url": "https://www.ticketmaster.com/the-doobie-brothers-walk-this-road-wilmington-north-carolina-10-06-2026/event/2D006472AB77ECE1"
+    },
+    {
+      "id": "tm_vvG1zZ_dBUGnGR",
+      "artist": "RADIO SOURCE Rocks the Hardin Auditorium",
+      "venue": "Hardin Auditorium",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-14",
+      "url": "https://www.ticketmaster.com/radio-source-rocks-the-hardin-auditorium-evans-georgia-11-14-2026/event/0E00643EB632A32F"
+    },
+    {
+      "id": "tm_G5eVZ_ACJer0D",
+      "artist": "Brit Floyd",
+      "venue": "Ovens Auditorium",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-11",
+      "url": "https://www.ticketmaster.com/brit-floyd-the-wall-the-moon-charlotte-north-carolina-08-11-2026/event/2D006453A609E93B"
+    },
+    {
+      "id": "tm_G5eVZ_G5Btbof",
+      "artist": "Underoath",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-12",
+      "url": "https://www.ticketmaster.com/underoath-define-the-great-line-20th-north-myrtle-beach-south-carolina-12-12-2026/event/2D0064C2FAA58454"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Afkpb7",
+      "artist": "Holding Absence",
+      "venue": "FIVE",
+      "genres": [
+        "Emo",
+        "Post-Hardcore",
+        "Rock"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketweb.com/event/holding-absence-arms-length-five-tickets/14196604"
+    },
+    {
+      "id": "tm_Z7r9jZ1A703Fa",
+      "artist": "The Avett Brothers",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-10-11",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A703Fa"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Afx7Fd",
+      "artist": "Clutch",
+      "venue": "FIVE",
+      "genres": [
+        "Metal",
+        "Rock",
+        "Heavy Metal"
+      ],
+      "date": "2026-10-18",
+      "url": "https://www.ticketweb.com/event/clutch-us-fall-tour-five-tickets/14884203"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7-0b8",
+      "artist": "Alabama",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Classic Rock",
+        "Rock"
+      ],
+      "date": "2026-10-17",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-0b8"
+    },
+    {
+      "id": "tm_vvG1zZ_kpTBu0T",
+      "artist": "Phil Wickham",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-07",
+      "url": "https://travel.ticketmaster.com/en-US/package-forward/64458393?_uid=ac74da7d-8f54-4d50-8b7e-dbdb135f1d70&utm_source=TPR&utm_medium=TMADP_Wickham_107"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfaKZf",
+      "artist": "Spite",
+      "venue": "FIVE",
+      "genres": [
+        "Alternative Metal",
+        "Rock",
+        "Alternative",
+        "Metal",
+        "Death Metal/Black Metal",
+        "Hardcore Punk"
+      ],
+      "date": "2026-10-11",
+      "url": "https://www.ticketweb.com/event/spite-five-tickets/14253014"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af-tjd",
+      "artist": "Toadies",
+      "venue": "FIVE",
+      "genres": [
+        "Alternative Rock",
+        "Alternative",
+        "Rock"
+      ],
+      "date": "2026-10-14",
+      "url": "https://www.ticketweb.com/event/toadies-the-charmer-tour-five-tickets/14869703"
+    },
+    {
+      "id": "tm_vvG1zZ_7mxwkQk",
+      "artist": "Breaking Benjamin",
+      "venue": "Ameris Bank Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-17",
+      "url": "https://www.ticketmaster.com/breaking-benjamin-alpharetta-georgia-10-17-2026/event/0E00644BA2C86686"
+    },
+    {
+      "id": "tm_G5eVZbgQUg_5d",
+      "artist": "Rainbow Kitten Surprise",
+      "venue": "Skyla Credit Union Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketmaster.com/rainbow-kitten-surprise-bones-north-american-charlotte-north-carolina-09-18-2026/event/2D006356B6D592C3"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfaxOV",
+      "artist": "Michael Franti Trio - Heartstrings & Dynamite",
+      "venue": "FIVE",
+      "genres": [
+        "Surf Rock",
+        "Roots Rock",
+        "Rock"
+      ],
+      "date": "2026-09-24",
+      "url": "https://www.ticketweb.com/event/michael-franti-trio-five-tickets/14262834"
+    },
+    {
+      "id": "tm_17FOv0G6ukg8NPi",
+      "artist": "Toast - The Best of Bread",
+      "venue": "Jacksonville Center for the Performing Arts - Moran Theater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-08",
+      "url": "https://www.ticketmaster.com/toast-the-best-of-bread-jacksonville-florida-10-08-2026/event/220064D1B542396C"
+    },
+    {
+      "id": "tm_G5eVZ_eh-clzo",
+      "artist": "James Taylor",
+      "venue": "Live Oak Bank Pavilion",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-15",
+      "url": "https://www.ticketmaster.com/james-taylor-his-allstar-band-wilmington-north-carolina-09-15-2026/event/2D006426E1B6BE11"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7-sOt",
+      "artist": "The Fab Four",
+      "venue": "Ponte Vedra Concert Hall",
+      "genres": [
+        "Classic Rock",
+        "Rock"
+      ],
+      "date": "2026-12-13",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-sOt"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfadG7",
+      "artist": "Candlebox",
+      "venue": "FIVE",
+      "genres": [
+        "Grunge",
+        "Alternative Rock",
+        "Alternative",
+        "Rock"
+      ],
+      "date": "2026-10-13",
+      "url": "https://www.ticketweb.com/event/candlebox-cant-quit-you-five-tickets/14243304"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfkF70",
+      "artist": "DJ Logic",
+      "venue": "FIVE",
+      "genres": [
+        "Dance/Electronic",
+        "Rock"
+      ],
+      "date": "2026-10-02",
+      "url": "https://www.ticketweb.com/event/runaway-gin-a-five-tickets/14188124"
+    },
+    {
+      "id": "tm_vvG1zZbzC1vkaz",
+      "artist": "Goo Goo Dolls",
+      "venue": "Atrium Health Amphitheater ",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-27",
+      "url": "https://www.ticketmaster.com/goo-goo-dolls-summer-2026-macon-georgia-08-27-2026/event/0E0063838A046278"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfOyxd",
+      "artist": "Stryper",
+      "venue": "FIVE",
+      "genres": [
+        "Hard Rock",
+        "Rock"
+      ],
+      "date": "2026-10-19",
+      "url": "https://www.ticketweb.com/event/stryper-five-tickets/14839883"
+    },
+    {
+      "id": "tm_G5eVZ_dwTNP95",
+      "artist": "Staind",
+      "venue": "Truliant Amphitheater",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-10",
+      "url": "https://www.ticketmaster.com/staind-break-the-cycle-25th-anniversary-charlotte-north-carolina-09-10-2026/event/2D00643CBF8E55CB"
+    },
+    {
+      "id": "tm_17FOv0G62rEXdx3",
+      "artist": "Expanding Man",
+      "venue": "Jacksonville Center for the Performing Arts - Terry Theater",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2027-02-25",
+      "url": "https://www.ticketmaster.com/an-evening-with-the-expanding-man-jacksonville-florida-02-25-2027/event/220064F7A7F83892"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7Pe0a",
+      "artist": "The Bronx Wanderers",
+      "venue": "Florida Theatre Jacksonville",
+      "genres": [
+        "Rock & Roll",
+        "Rock"
+      ],
+      "date": "2027-03-12",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pe0a"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfONPN",
+      "artist": "Plush, Major Moment",
+      "venue": "Eclipse",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-09-20",
+      "url": "https://www.ticketweb.com/event/plush-major-moment-eclipse-tickets/14823963"
+    },
+    {
+      "id": "tm_vvG1zZ_dwD8_cD",
+      "artist": "Staind",
+      "venue": "Lakewood Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-08",
+      "url": "https://www.ticketmaster.com/staind-break-the-cycle-25th-anniversary-atlanta-georgia-09-08-2026/event/0E00643CBB419B7B"
+    },
+    {
+      "id": "tm_G5eVZ_ChCO-oB",
+      "artist": "THE STRAY CATS",
+      "venue": "Ovens Auditorium",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.ticketmaster.com/the-stray-cats-charlotte-north-carolina-11-20-2026/event/2D0064E6CE82147A"
+    },
+    {
+      "id": "tm_G5eVZbyCO1nPP",
+      "artist": "James Taylor",
+      "venue": "Truliant Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-13",
+      "url": "https://www.ticketmaster.com/james-taylor-charlotte-north-carolina-09-13-2026/event/2D006393A02AA965"
+    },
+    {
+      "id": "tm_G5eVZ_73B2jo6",
+      "artist": "Bilmuri",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-05",
+      "url": "https://www.ticketmaster.com/bilmuri-kinda-hard-tour-north-myrtle-beach-south-carolina-09-05-2026/event/2D006444BA3DC447"
+    },
+    {
+      "id": "tm_1718v0G6usRl-L6",
+      "artist": "Mongrel",
+      "venue": "Corazon del Barrio",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-11",
+      "url": "https://www.ticketweb.com/event/division-of-mind-mongrel-bloodshed-corazon-del-barrio-tickets/14226024?REFERRAL_ID=tmfeed"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Afrv-K",
+      "artist": "The Calling",
+      "venue": "FIVE",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-12",
+      "url": "https://www.ticketweb.com/event/the-calling-five-tickets/14781853"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7-V03",
+      "artist": "Blue October",
+      "venue": "FIVE",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-V03"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfkF0f",
+      "artist": "The Living Tombstone - The Multiplayer Tour",
+      "venue": "FIVE",
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "date": "2026-10-17",
+      "url": "https://www.ticketweb.com/event/the-living-tombstone-five-tickets/14188914"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Afrp8N",
+      "artist": "Blue October",
+      "venue": "FIVE",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.ticketweb.com/event/blue-october-five-tickets/14796423"
+    },
+    {
+      "id": "tm_G5eVZ_7mSziUm",
+      "artist": "In The End",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-29",
+      "url": "https://www.ticketmaster.com/in-the-end-linkin-park-experience-north-myrtle-beach-south-carolina-08-29-2026/event/2D00644BB3E2CDAE"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af0P8K",
+      "artist": "Black Flag",
+      "venue": "Eclipse",
+      "genres": [
+        "Punk",
+        "Rock"
+      ],
+      "date": "2026-10-06",
+      "url": "https://www.ticketweb.com/event/black-flag-eclipse-tickets/14925413"
+    },
+    {
+      "id": "tm_Z7r9jZ1A709qw",
+      "artist": "Rise Against",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Punk",
+        "Rock"
+      ],
+      "date": "2026-09-26",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A709qw"
+    },
+    {
+      "id": "tm_G5eVZ_eV3bV7w",
+      "artist": "Rob Zombie",
+      "venue": "Truliant Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-24",
+      "url": "https://www.ticketmaster.com/rob-zombie-marilyn-manson-with-the-charlotte-north-carolina-08-24-2026/event/2D00642D12634132"
+    },
+    {
+      "id": "tm_G5eVZ_GkUS0qk",
+      "artist": "One Irish Rover Van Morrison Tribute Band",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-08",
+      "url": "https://www.ticketmaster.com/one-irish-rover-celebrating-the-music-north-myrtle-beach-south-carolina-08-08-2026/event/2D0064C1B6CE4746"
+    },
+    {
+      "id": "tm_G5eVZ_GJcOHUH",
+      "artist": "Flying High Again",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-22",
+      "url": "https://www.ticketmaster.com/flying-high-again-the-ultimate-ozzy-north-myrtle-beach-south-carolina-08-22-2026/event/2D0064C9AD83CDBC"
+    },
+    {
+      "id": "tm_G5eVZ_unzjNqe",
+      "artist": "ZZ Top Notch",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-04",
+      "url": "https://www.ticketmaster.com/zz-top-notch-a-tribute-to-north-myrtle-beach-south-carolina-10-04-2026/event/2D0064DAB8723742"
+    },
+    {
+      "id": "tm_G5eVZ_2hdEKUE",
+      "artist": "Primal Crue",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketmaster.com/primal-crue-a-tribute-to-motley-north-myrtle-beach-south-carolina-09-18-2026/event/2D0064F6C39D3DA7"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7OYu6",
+      "artist": "The Fray",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-08-08",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OYu6"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAZAGz",
+      "artist": "Mariachi El Bronx",
+      "venue": "Ponte Vedra Concert Hall",
+      "genres": [
+        "Punk",
+        "Rock"
+      ],
+      "date": "2026-10-02",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZAGz"
+    },
+    {
+      "id": "tm_G5eVZ_6eBO22t",
+      "artist": "The Warped Band - The Ultimate Tribute to Warped Tour",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-28",
+      "url": "https://www.ticketmaster.com/the-warped-band-the-official-tribute-north-myrtle-beach-south-carolina-08-28-2026/event/2D006470BA80F3E9"
+    },
+    {
+      "id": "tm_G5eVZ_6Fmw5Pz",
+      "artist": "Bryan Adams",
+      "venue": "Bon Secours Wellness Arena ",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-04",
+      "url": "https://www.ticketmaster.com/bryan-adams-roll-with-the-punches-greenville-south-carolina-08-04-2026/event/2D0064722EC8B978"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfOwkK",
+      "artist": "The Mars Volta",
+      "venue": "FIVE",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketweb.com/event/the-mars-volta-five-tickets/14832193"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70vQ6",
+      "artist": "Modest Mouse",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-09-17",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70vQ6"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7-PAY",
+      "artist": "John Fogerty",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Classic Rock",
+        "Rock"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-PAY"
+    },
+    {
+      "id": "tm_G5eVZ_FL9sEEv",
+      "artist": "Jack White",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-14",
+      "url": "https://www.ticketmaster.com/jack-white-live-2026-charlotte-north-carolina-11-14-2026/event/2D006487D7C679C1"
+    },
+    {
+      "id": "tm_G5eVZ_FL9YMJz",
+      "artist": "Jack White",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/jack-white-live-2026-charlotte-north-carolina-11-13-2026/event/2D006487D7C379B8"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfOVON",
+      "artist": "Devils Cut",
+      "venue": "Eclipse",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-08-23",
+      "url": "https://www.ticketweb.com/event/devils-cut-eclipse-tickets/14834823"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfFM0f",
+      "artist": "Flaw",
+      "venue": "Eclipse",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-10-25",
+      "url": "https://www.ticketweb.com/event/flaw-eclipse-tickets/14237914"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfqApK",
+      "artist": "Green Jello",
+      "venue": "Eclipse",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-12-20",
+      "url": "https://www.ticketweb.com/event/green-jello-eclipse-tickets/14745593"
+    },
+    {
+      "id": "tm_17FOv0G613PBS0Q",
+      "artist": "MercyMe",
+      "venue": "Donald L. Tucker Civic Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-10",
+      "url": "https://www.ticketmaster.com/mercyme-jeremy-camp-tim-timmons-sam-tallahassee-florida-10-10-2026/event/220064A4A5EB391A"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7-_a7",
+      "artist": "Slightly Stoopid",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-08-23",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-_a7"
+    },
+    {
+      "id": "tm_G5eVZ_kSrcn_0",
+      "artist": "NEEDTOBREATHE",
+      "venue": "Bon Secours Wellness Arena ",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-20",
+      "url": "https://www.ticketmaster.com/needtobreathe-the-long-surrender-tour-greenville-south-carolina-09-20-2026/event/2D00646CDEB6A664"
+    },
+    {
+      "id": "tm_G5eVZ_Fxusypi",
+      "artist": "The Story So Far",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Punk",
+        "Rock"
+      ],
+      "date": "2026-10-18",
+      "url": "https://www.ticketmaster.com/the-story-so-far-charlotte-north-carolina-10-18-2026/event/2D0064888DC795AC"
+    },
+    {
+      "id": "tm_G5eVZ_CUfmIER",
+      "artist": "Trivium",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-19",
+      "url": "https://www.ticketmaster.com/trivium-crown-in-the-grave-world-charlotte-north-carolina-12-19-2026/event/2D0064ED94BA89EF"
+    },
+    {
+      "id": "tm_G5eVZbzE6Fjgn",
+      "artist": "Bethel Music",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-14",
+      "url": "https://www.ticketmaster.com/bethel-music-2026-tour-charlotte-north-carolina-10-14-2026/event/2D006389C721CD6A"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7qEAv",
+      "artist": "O.A.R.",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-11-14",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qEAv"
+    },
+    {
+      "id": "tm_vvG1zZ_A3HMsMk",
+      "artist": "Social Distortion",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-01",
+      "url": "https://www.ticketmaster.com/social-distortion-atlanta-georgia-09-01-2026/event/0E006454BCDF1DC6"
+    },
+    {
+      "id": "tm_G5eVZ_aB2Xqpb",
+      "artist": "SWITCHFOOT",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-05",
+      "url": "https://www.ticketmaster.com/switchfoot-with-special-guest-anberlin-forever-charlotte-north-carolina-11-05-2026/event/2D00649E8FF9D598"
+    },
+    {
+      "id": "tm_G5eVZ_1QwrD-m",
+      "artist": "The Revivalists",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-13",
+      "url": "https://www.ticketmaster.com/the-revivalists-charlotte-north-carolina-10-13-2026/event/2D0064A6B27BB86E"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7OJ8A",
+      "artist": "Blues Traveler",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-09-04",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OJ8A"
+    },
+    {
+      "id": "tm_G5eVZbUoW9VIg",
+      "artist": "Jack Johnson",
+      "venue": "Truliant Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-23",
+      "url": "https://www.ticketmaster.com/jack-johnson-surfilmusic-tour-2026-charlotte-north-carolina-08-23-2026/event/2D0063647D5F4A35"
+    },
+    {
+      "id": "tm_G5eVZ_6kznToS",
+      "artist": "Sammy Rae & The Friends",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-31",
+      "url": "https://www.ticketmaster.com/sammy-rae-the-friends-with-special-charlotte-north-carolina-10-31-2026/event/2D006471B8ABF473"
+    },
+    {
+      "id": "tm_G5eVZ_GnuzyBg",
+      "artist": "Sleeping With Sirens",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-11",
+      "url": "https://www.ticketmaster.com/sleeping-with-sirens-an-ending-in-charlotte-north-carolina-11-11-2026/event/2D0064CA8DE39EB5"
+    },
+    {
+      "id": "tm_G5eVZ_knG4bET",
+      "artist": "Blue October",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-17",
+      "url": "https://www.ticketmaster.com/blue-october-charlotte-north-carolina-11-17-2026/event/2D00646A8C5589FF"
+    },
+    {
+      "id": "tm_G5eVZbMIVdPfF",
+      "artist": "Avenged Sevenfold",
+      "venue": "Truliant Amphitheater",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-16",
+      "url": "https://www.ticketmaster.com/avenged-sevenfold-and-good-charlotte-north-charlotte-north-carolina-08-16-2026/event/2D00637A340E5508"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7PZfw",
+      "artist": "Gov't Mule",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Classic Rock",
+        "Rock"
+      ],
+      "date": "2026-10-03",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PZfw"
+    },
+    {
+      "id": "tm_vvG1zZbMpVkBd1",
+      "artist": "Guns N' Roses",
+      "venue": "Truist Park",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/guns-n-roses-world-tour-2026-atlanta-georgia-09-19-2026/event/0E006375B41BA0CA"
+    },
+    {
+      "id": "tm_G5eVZbMJSe_YE",
+      "artist": "Chance Pe\u00f1a",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-05",
+      "url": "https://www.ticketmaster.com/chance-pena-charlotte-north-carolina-08-05-2026/event/2D006379B3099C27"
+    },
+    {
+      "id": "tm_G5eVZbMNSei_j",
+      "artist": "Evanescence",
+      "venue": "Truliant Amphitheater",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-04",
+      "url": "https://www.ticketmaster.com/evanescence-2026-world-tour-charlotte-north-carolina-08-04-2026/event/2D006378F30AC65C"
+    },
+    {
+      "id": "tm_G5eVZ_FBDvMtS",
+      "artist": "ZZ Top",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketmaster.com/zz-top-wilmington-north-carolina-09-18-2026/event/2D00648EBB077A73"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70IGM",
+      "artist": "Beartooth",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Hard Rock",
+        "Rock"
+      ],
+      "date": "2026-12-04",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70IGM"
+    },
+    {
+      "id": "tm_17FOv0G61kI29nq",
+      "artist": "Given to Fly - The Pearl Jam Experience",
+      "venue": "Colonial Oak Music Park",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/given-to-fly-the-pearl-jam-st-augustine-florida-11-22-2026/event/220064A1A83D7A9D"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7xKvp",
+      "artist": "CAKE",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-10-21",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xKvp"
+    },
+    {
+      "id": "tm_G5eVZ_1MS94Nv",
+      "artist": "Phantogram",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-16",
+      "url": "https://www.ticketmaster.com/phantogram-charlotte-north-carolina-09-16-2026/event/2D0064ADF35D58C1"
+    },
+    {
+      "id": "tm_G5eVZ_1QLq0mS",
+      "artist": "Shakey Graves",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-06",
+      "url": "https://www.ticketmaster.com/shakey-graves-charlotte-north-carolina-12-06-2026/event/2D0064A69F764BB3"
+    },
+    {
+      "id": "tm_G5eVZ_akBs6x1",
+      "artist": "Palace",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-18",
+      "url": "https://www.ticketmaster.com/palace-usa-canada-tour-2026-charlotte-north-carolina-11-18-2026/event/2D006491BAC4788A"
+    },
+    {
+      "id": "tm_G5eVZ_d9I80GE",
+      "artist": "The Fray",
+      "venue": "Skyla Credit Union Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-07",
+      "url": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-charlotte-north-carolina-08-07-2026/event/2D006435E8424327"
+    },
+    {
+      "id": "tm_vvG1zZ_ewXlJsQ",
+      "artist": "Rob Zombie",
+      "venue": "Ameris Bank Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-23",
+      "url": "https://www.ticketmaster.com/rob-zombie-marilyn-manson-with-the-alpharetta-georgia-08-23-2026/event/0E00642CBEAE6C5A"
+    },
+    {
+      "id": "tm_G5eVZ_5UrceUB",
+      "artist": "American Football",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-16",
+      "url": "https://www.ticketmaster.com/american-football-charlotte-north-carolina-12-16-2026/event/2D0064BD9EB42DBA"
+    },
+    {
+      "id": "tm_G5eVZ_u2erJD0",
+      "artist": "AJ McLean",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-26",
+      "url": "https://www.ticketmaster.com/aj-mclean-presents-alexander-james-the-charlotte-north-carolina-10-26-2026/event/2D0064D3C27A6EE4"
+    },
+    {
+      "id": "tm_G5eVZ_Gw-qrzl",
+      "artist": "Hot Mulligan",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-10",
+      "url": "https://www.ticketmaster.com/hot-mulligan-north-american-fall-tour-charlotte-north-carolina-11-10-2026/event/2D0064CCA175EE2B"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70_oP",
+      "artist": "The Revivalists",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-11-21",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70_oP"
+    },
+    {
+      "id": "tm_G5eVZ_COMu2ec",
+      "artist": "The Rock Orchestra By Candlelight",
+      "venue": "Spartanburg Memorial Auditorium",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2027-03-08",
+      "url": "https://www.ticketmaster.com/the-rock-orchestra-by-candlelight-spartanburg-south-carolina-03-08-2027/event/2D0064E83734F0AD"
+    },
+    {
+      "id": "tm_G5eVZ_5noMblH",
+      "artist": "VOIL\u00c0",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-04",
+      "url": "https://www.ticketmaster.com/voila-presents-moonbloom-charlotte-north-carolina-11-04-2026/event/2D0064BA91DD8AFC"
+    },
+    {
+      "id": "tm_vvG1zZ_kba4E22",
+      "artist": "Two Door Cinema Club",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-atlanta-georgia-10-09-2026/event/0E006466095673CF"
+    },
+    {
+      "id": "tm_G5eVZ_AnGnlho",
+      "artist": "Slightly Stoopid",
+      "venue": "Live Oak Bank Pavilion",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-20",
+      "url": "https://www.ticketmaster.com/slightly-stoopid-road-trippin-summer-tour-wilmington-north-carolina-08-20-2026/event/2D00645A8CAAB6D1"
+    },
+    {
+      "id": "tm_vvG1zZ_FrhZ9ww",
+      "artist": "Jack White",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-21",
+      "url": "https://www.ticketmaster.com/jack-white-live-2026-atlanta-georgia-11-21-2026/event/0E0064879B017CB2"
+    },
+    {
+      "id": "tm_G5eVZ_aps-CtF",
+      "artist": "Amy Grant",
+      "venue": "Bojangles Coliseum",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-29",
+      "url": "https://www.ticketmaster.com/christmas-together-with-amy-grant-michael-charlotte-north-carolina-11-29-2026/event/2D006495B184EA48"
+    },
+    {
+      "id": "tm_G5eVZbz15zJSl",
+      "artist": "Goo Goo Dolls",
+      "venue": "CCNB Amphitheatre at Heritage Park",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-30",
+      "url": "https://www.ticketmaster.com/goo-goo-dolls-summer-2026-simpsonville-south-carolina-08-30-2026/event/2D0063828BE26CEB"
+    },
+    {
+      "id": "tm_vvG1zZ_FrhF9VY",
+      "artist": "Jack White",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.ticketmaster.com/jack-white-live-2026-atlanta-georgia-11-20-2026/event/0E0064879B217D30"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7POZg",
+      "artist": "Air Supply",
+      "venue": "The Peabody Daytona Beach",
+      "genres": [
+        "Pop",
+        "Pop Rock"
+      ],
+      "date": "2027-01-22",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7POZg"
+    },
+    {
+      "id": "tm_vvG1zZ_61_MESy",
+      "artist": "Myles Smith",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-10",
+      "url": "https://www.ticketmaster.com/myles-smith-my-mess-my-heart-atlanta-georgia-09-10-2026/event/0E00647299DE7CF9"
+    },
+    {
+      "id": "tm_G5eVZ_ey1iL_j",
+      "artist": "Blues Traveler",
+      "venue": "Skyla Credit Union Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-29",
+      "url": "https://www.ticketmaster.com/blues-travelergin-blossoms-with-spin-doctors-charlotte-north-carolina-08-29-2026/event/2D00642E4AB1F65C"
+    },
+    {
+      "id": "tm_vvG1zZ_FBor4w0",
+      "artist": "Beck",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-30",
+      "url": "https://www.ticketmaster.com/beck-ride-lonesome-tour-atlanta-georgia-10-30-2026/event/0E00648E91795CA4"
+    },
+    {
+      "id": "tm_vvG1zZ_ahk1LgC",
+      "artist": "Suki Waterhouse",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-29",
+      "url": "https://www.ticketmaster.com/suki-waterhouse-the-loveland-tour-atlanta-georgia-09-29-2026/event/0E006496C629FD4E"
+    },
+    {
+      "id": "tm_G5eVZ_5phCmYY",
+      "artist": "Widespread Panic",
+      "venue": "Live Oak Bank Pavilion",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/widespread-panic-wilmington-north-carolina-09-19-2026/event/2D0064B59B3AEC30"
+    },
+    {
+      "id": "tm_vvG1zZ_1R6JXHY",
+      "artist": "MercyMe",
+      "venue": "Columbus Civic Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-08",
+      "url": "https://www.ticketmaster.com/mercyme-jeremy-camp-tim-timmons-sam-columbus-georgia-10-08-2026/event/0E0064ABC79BEF30"
+    },
+    {
+      "id": "tm_G5eVZ_5phuXYP",
+      "artist": "Widespread Panic",
+      "venue": "Live Oak Bank Pavilion",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketmaster.com/widespread-panic-wilmington-north-carolina-09-18-2026/event/2D0064B59B37EC25"
+    },
+    {
+      "id": "tm_vvG1zZ_kl3cj6Z",
+      "artist": "Bleachers",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-05",
+      "url": "https://www.ticketmaster.com/bleachers-forever-atlanta-georgia-10-05-2026/event/0E00646AD2B5C1C0"
+    },
+    {
+      "id": "tm_vvG1zZ_kwK4pet",
+      "artist": "Stephen Wilson Jr.",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-09",
+      "url": "https://www.ticketmaster.com/stephen-wilson-jr-gary-the-torch-atlanta-georgia-12-09-2026/event/0E00646C935560A9"
+    },
+    {
+      "id": "tm_G5eVZ_5ph2msA",
+      "artist": "Widespread Panic",
+      "venue": "Live Oak Bank Pavilion",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketmaster.com/widespread-panic-2-day-ticket-cannot-wilmington-north-carolina-09-18-2026/event/2D0064B59B3EEC45"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Afxpud",
+      "artist": "Sevendust",
+      "venue": "Wendell's Outdoors",
+      "genres": [
+        "Post-Grunge",
+        "Alternative Metal",
+        "Alternative",
+        "Rock"
+      ],
+      "date": "2026-09-04",
+      "url": "https://www.ticketweb.com/event/sevendust-theory-of-a-wendells-outdoors-tickets/14896343"
+    },
+    {
+      "id": "tm_G5eVZ_FLaN0tU",
+      "artist": "Zach Williams",
+      "venue": "Spartanburg Memorial Auditorium",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-14",
+      "url": "https://www.ticketmaster.com/zach-williams-with-cochren-co-and-spartanburg-south-carolina-11-14-2026/event/2D006487C98E4A76"
+    },
+    {
+      "id": "tm_G5eVZ_k2U9QWv",
+      "artist": "Two Door Cinema Club",
+      "venue": "Skyla Credit Union Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-10",
+      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-charlotte-north-carolina-10-10-2026/event/2D006463F65DAF41"
+    },
+    {
+      "id": "tm_G5eVZ_k2SgnrT",
+      "artist": "NEEDTOBREATHE",
+      "venue": "Skyla Credit Union Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-05",
+      "url": "https://www.ticketmaster.com/needtobreathe-the-long-surrender-tour-charlotte-north-carolina-09-05-2026/event/2D006463F3D6A7BF"
+    },
+    {
+      "id": "tm_vvG1zZ_aS-vWTl",
+      "artist": "Foster the People",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-14",
+      "url": "https://www.ticketmaster.com/foster-the-people-good-mourning-sunshine-atlanta-georgia-10-14-2026/event/0E00649CE107DFEB"
+    },
+    {
+      "id": "tm_vvG1zZ_59ATsYQ",
+      "artist": "Gov't Mule",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-10",
+      "url": "https://www.ticketmaster.com/govt-mule-and-ziggy-marley-atlanta-georgia-10-10-2026/event/0E0064B5C5FF1C1A"
+    },
+    {
+      "id": "tm_vvG1zZ_eQLKVpd",
+      "artist": "James Taylor",
+      "venue": "Synovus Bank Amphitheater at Chastain Park",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-17",
+      "url": "https://www.ticketmaster.com/james-taylor-and-his-all-star-atlanta-georgia-09-17-2026/event/0E0064269F4F4583"
+    },
+    {
+      "id": "tm_vvG1zZbUC0bAHt",
+      "artist": "Jack Johnson",
+      "venue": "Ameris Bank Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-21",
+      "url": "https://www.ticketmaster.com/jack-johnson-surfilmusic-tour-2026-alpharetta-georgia-08-21-2026/event/0E006363A4605F29"
+    },
+    {
+      "id": "tm_G5eVZ_6EQGBmr",
+      "artist": "Muse",
+      "venue": "Truliant Amphitheater",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-10",
+      "url": "https://www.ticketmaster.com/muse-the-wow-signal-tour-charlotte-north-carolina-08-10-2026/event/2D006479DA33AB9E"
+    },
+    {
+      "id": "tm_vvG1zZ_63tIlat",
+      "artist": "311",
+      "venue": "Ameris Bank Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-28",
+      "url": "https://www.ticketmaster.com/311-and-dirty-heads-so-glad-alpharetta-georgia-08-28-2026/event/0E006474A9A2B269"
+    },
+    {
+      "id": "tm_G5eVZ_1KGlrQZ",
+      "artist": "Amy Grant",
+      "venue": "Bojangles Coliseum",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-29",
+      "url": "https://travel.ticketmaster.com/en-US/package-forward/92446466?_uid=ac74da7d-8f54-4d50-8b7e-dbdb135f1d70&utm_source=TPR&utm_medium=TMADP_AmyGrant1129"
+    },
+    {
+      "id": "tm_vvG1zZ_kml-zOi",
+      "artist": "Amyl and the Sniffers",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-04",
+      "url": "https://www.ticketmaster.com/amyl-and-the-sniffers-atlanta-georgia-10-04-2026/event/0E00646BAB87882C"
+    },
+    {
+      "id": "tm_G5eVZ_k2SM1Lm",
+      "artist": "John Fogerty",
+      "venue": "Truliant Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-16",
+      "url": "https://www.ticketmaster.com/john-fogerty-and-steve-winwood-charlotte-north-carolina-09-16-2026/event/2D006463F3DCA7EE"
+    },
+    {
+      "id": "tm_vvG1zZ_6JrPbLY",
+      "artist": "The Rock Orchestra By Candlelight",
+      "venue": "Cobb Energy Performing Arts Centre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-21",
+      "url": "https://www.ticketmaster.com/the-rock-orchestra-by-candlelight-atlanta-georgia-11-21-2026/event/0E0064799E9587F0"
+    },
+    {
+      "id": "tm_vvG1zZ_eQL979d",
+      "artist": "James Taylor",
+      "venue": "Synovus Bank Amphitheater at Chastain Park",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-18",
+      "url": "https://www.ticketmaster.com/james-taylor-and-his-all-star-atlanta-georgia-09-18-2026/event/0E0064269F5C45C3"
+    },
+    {
+      "id": "tm_G5eVZ_6L95eJb",
+      "artist": "Dermot Kennedy",
+      "venue": "Skyla Credit Union Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-03",
+      "url": "https://www.ticketmaster.com/dermot-kennedy-the-weight-of-the-charlotte-north-carolina-10-03-2026/event/2D006477D72C2998"
+    },
+    {
+      "id": "tm_vvG1zZ_6JR3BOH",
+      "artist": "Muse",
+      "venue": "Lakewood Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-12",
+      "url": "https://www.ticketmaster.com/muse-the-wow-signal-tour-atlanta-georgia-08-12-2026/event/0E006479AF4BA83C"
+    },
+    {
+      "id": "tm_vvG1zZ_GwMEYrD",
+      "artist": "Polyphia",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-17",
+      "url": "https://www.ticketmaster.com/polyphia-tour-mmxxvi-atlanta-georgia-10-17-2026/event/0E0064CCB79F07BB"
+    },
+    {
+      "id": "tm_vvG1zZ_G0CRu9K",
+      "artist": "Blackberry Smoke",
+      "venue": "Tabernacle",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-27",
+      "url": "https://www.ticketmaster.com/blackberry-smoke-holiday-homecoming-atlanta-georgia-11-27-2026/event/0E0064C90EBCD5D3"
+    },
+    {
+      "id": "tm_G5eVZ_kwrwc7y",
+      "artist": "Hawthorne Heights",
+      "venue": "The Underground",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-31",
+      "url": "https://www.ticketmaster.com/hawthorne-heights-20th-anniversary-of-if-charlotte-north-carolina-10-31-2026/event/2D00646C9ECAD139"
+    },
+    {
+      "id": "tm_vvG1zZ_aUqHmNY",
+      "artist": "Sevendust",
+      "venue": "Tabernacle",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-05",
+      "url": "https://www.ticketmaster.com/sevendust-theory-of-a-deadman-the-atlanta-georgia-09-05-2026/event/0E00649D9DF2E8F0"
+    },
+    {
+      "id": "tm_G5eVZ_FLyAc24",
+      "artist": "The Strokes",
+      "venue": "Truliant Amphitheater",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-17",
+      "url": "https://www.ticketmaster.com/the-strokes-reality-awaits-north-america-charlotte-north-carolina-09-17-2026/event/2D006487F916D3D5"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7xeCA",
+      "artist": "America",
+      "venue": "The Peabody Daytona Beach",
+      "genres": [
+        "Classic Rock",
+        "Rock"
+      ],
+      "date": "2026-10-04",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xeCA"
+    },
+    {
+      "id": "tm_vvG1zZ_Fr4GUBo",
+      "artist": "Cavetown",
+      "venue": "Tabernacle",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-18",
+      "url": "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-atlanta-georgia-10-18-2026/event/0E00648795336E91"
+    },
+    {
+      "id": "tm_G5eVZ_1NJ2TwB",
+      "artist": "The Airborne Toxic Event",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2027-05-18",
+      "url": "https://www.ticketmaster.com/the-airborne-toxic-event-charlotte-north-carolina-05-18-2027/event/2D0064A8E63FFCBA"
+    },
+    {
+      "id": "tm_G5eVZ_23mzhAI",
+      "artist": "Emo Nite",
+      "venue": "The Underground",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-25",
+      "url": "https://www.ticketmaster.com/emo-nite-18-charlotte-north-carolina-09-25-2026/event/2D0064F4AEE1B168"
+    },
+    {
+      "id": "tm_vvG1zZ_kC30pY0",
+      "artist": "Dogstar",
+      "venue": "Tabernacle",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-04",
+      "url": "https://www.ticketmaster.com/dogstar-all-in-now-tour-atlanta-georgia-08-04-2026/event/0E00646392916C24"
+    },
+    {
+      "id": "tm_G5eVZ_G2AKuSV",
+      "artist": "Rodrigo y Gabriela",
+      "venue": "The Underground",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-17",
+      "url": "https://www.ticketmaster.com/rodrigo-y-gabriela-ourhome-tour-charlotte-north-carolina-10-17-2026/event/2D0064C3C54CDCF4"
+    },
+    {
+      "id": "tm_vvG1zZ_13-jhMB",
+      "artist": "SWITCHFOOT",
+      "venue": "Tabernacle",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-06",
+      "url": "https://www.ticketmaster.com/switchfoot-with-special-guest-anberlin-forever-atlanta-georgia-11-06-2026/event/0E0064A4A171BDFA"
+    },
+    {
+      "id": "tm_G5eVZ_uexvWPs",
+      "artist": "The Wrecks",
+      "venue": "The Underground",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-08",
+      "url": "https://www.ticketmaster.com/the-wrecks-finally-outside-tour-charlotte-north-carolina-11-08-2026/event/2D0064D0A207D971"
+    },
+    {
+      "id": "tm_G5eVZ_6n0_uwi",
+      "artist": "PRESIDENT",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-20",
+      "url": "https://www.ticketmaster.com/president-north-american-campaign-2026-charlotte-north-carolina-09-20-2026/event/2D00647AA464DCAC"
+    },
+    {
+      "id": "tm_G5eVZ_GnYDUso",
+      "artist": "Ryan Beatty",
+      "venue": "The Underground",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-30",
+      "url": "https://www.ticketmaster.com/ryan-beatty-arms-over-armor-north-charlotte-north-carolina-09-30-2026/event/2D0064CAB0EF6C51"
+    },
+    {
+      "id": "tm_G5eVZ_G3pcCzm",
+      "artist": "Scene Queen",
+      "venue": "The Underground",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-22",
+      "url": "https://www.ticketmaster.com/scene-queen-metalicious-charlotte-north-carolina-10-22-2026/event/2D0064C496B4EE2E"
+    },
+    {
+      "id": "tm_G5eVZ_FCyM6sY",
+      "artist": "The Aquabats!",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-04",
+      "url": "https://www.ticketmaster.com/the-aquabats-charlotte-north-carolina-09-04-2026/event/2D006483B9DC7C70"
+    },
+    {
+      "id": "tm_G5eVZ_aUVSaef",
+      "artist": "Finn Wolfhard",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-07",
+      "url": "https://www.ticketmaster.com/finn-wolfhard-charlotte-north-carolina-10-07-2026/event/2D00649DB4CC9094"
+    },
+    {
+      "id": "tm_G5eVZ_CXayFzn",
+      "artist": "Rebecca Black",
+      "venue": "The Underground",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-06",
+      "url": "https://www.ticketmaster.com/rebecca-black-exhibitionism-on-tour-charlotte-north-carolina-10-06-2026/event/2D0064EF89E48E2A"
+    },
+    {
+      "id": "tm_G5eVZ_FUjLjlg",
+      "artist": "The Bouncing Souls",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-13",
+      "url": "https://www.ticketmaster.com/the-bouncing-souls-born-to-be-charlotte-north-carolina-09-13-2026/event/2D00648D9C7DCAF5"
+    },
+    {
+      "id": "tm_G5eVZ_FF_NCdm",
+      "artist": "Jutes",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-30",
+      "url": "https://www.ticketmaster.com/jutes-smile-youre-on-tour-charlotte-north-carolina-08-30-2026/event/2D006482198CE0EE"
+    },
+    {
+      "id": "tm_G5eVZ_2euKjVG",
+      "artist": "Michael Franti",
+      "venue": "The Underground",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-27",
+      "url": "https://www.ticketmaster.com/michael-franti-trio-heartstrings-dynamite-charlotte-north-carolina-09-27-2026/event/2D0064F08D4DCD0C"
+    },
+    {
+      "id": "tm_G5eVZ_6C9ru1i",
+      "artist": "JET",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/jet-down-the-moonlit-mile-revue-charlotte-north-carolina-09-19-2026/event/2D0064739778D2AC"
+    },
+    {
+      "id": "tm_vvG1zZ_66osl8O",
+      "artist": "Guster",
+      "venue": "Atlanta Symphony Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-17",
+      "url": "https://www.ticketmaster.com/guster-with-the-atlanta-symphony-orchestra-atlanta-georgia-10-17-2026/event/0E006471D1C6B420"
+    },
+    {
+      "id": "tm_G5eVZ_5Qg4L9B",
+      "artist": "Catch Your Breath",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-10",
+      "url": "https://www.ticketmaster.com/catch-your-breath-not-broken-enough-charlotte-north-carolina-11-10-2026/event/2D0064B6B555F5FA"
+    },
+    {
+      "id": "tm_vvG1zZ_2p346MW",
+      "artist": "Story of the Year",
+      "venue": "Tabernacle",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-28",
+      "url": "https://www.ticketmaster.com/story-of-the-year-silverstein-camp-atlanta-georgia-11-28-2026/event/0E0064F592547DFD"
+    },
+    {
+      "id": "tm_vvG1zZ_dwj06SQ",
+      "artist": "Metric",
+      "venue": "Tabernacle",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-03",
+      "url": "https://www.ticketmaster.com/all-the-feelings-tour-with-metric-atlanta-georgia-08-03-2026/event/0E00643C9C907CDA"
+    },
+    {
+      "id": "tm_G5eVZ_G9Au2he",
+      "artist": "WesGhost",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-11",
+      "url": "https://www.ticketmaster.com/wesghost-if-its-not-forever-the-charlotte-north-carolina-11-11-2026/event/2D0064C5C534F6C2"
+    },
+    {
+      "id": "tm_G5eVZ_5UQWvr-",
+      "artist": "Plini",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-15",
+      "url": "https://www.ticketmaster.com/plini-an-unnameable-desire-north-american-charlotte-north-carolina-10-15-2026/event/2D0064BD9AF417A1"
+    },
+    {
+      "id": "tm_G5eVZ_kmSamoU",
+      "artist": "Public Image Ltd",
+      "venue": "The Underground",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2027-03-14",
+      "url": "https://www.ticketmaster.com/public-image-ltd-charlotte-north-carolina-03-14-2027/event/2D00646BB326E476"
+    },
+    {
+      "id": "tm_vvG1zZ_GmsfW1F",
+      "artist": "Senses Fail",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-05",
+      "url": "https://www.ticketmaster.com/senses-fail-presents-still-searching-atlanta-georgia-12-05-2026/event/0E0064CBB153D288"
+    },
+    {
+      "id": "tm_vvG1zZbz1LYEt3",
+      "artist": "Houndmouth",
+      "venue": "Tabernacle",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-24",
+      "url": "https://www.ticketmaster.com/houndmouth-atlanta-georgia-09-24-2026/event/0E0063829FC27A52"
+    },
+    {
+      "id": "tm_vvG1zZ_62SZvVW",
+      "artist": "Guster",
+      "venue": "Atlanta Symphony Hall",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-16",
+      "url": "https://www.ticketmaster.com/guster-with-the-atlanta-symphony-orchestra-atlanta-georgia-10-16-2026/event/0E006473F3001D3D"
+    },
+    {
+      "id": "tm_vvG1zZ_6ddzDk3",
+      "artist": "Blue October",
+      "venue": "Tabernacle",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-atlanta-georgia-11-22-2026/event/0E006470C3E3B192"
+    },
+    {
+      "id": "tm_vvG1zZ_GmwncKK",
+      "artist": "State Champs",
+      "venue": "Tabernacle",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-04",
+      "url": "https://www.ticketmaster.com/state-champs-atlanta-georgia-12-04-2026/event/0E0064CBB2AAD4D3"
+    },
+    {
+      "id": "tm_vvG1zZ_a3OFzm1",
+      "artist": "JOHNNYSWIM",
+      "venue": "Tabernacle",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-11",
+      "url": "https://www.ticketmaster.com/johnnyswim-greetings-from-georgica-pond-atlanta-georgia-10-11-2026/event/0E006494A0238B8A"
+    },
+    {
+      "id": "tm_vvG1zZ_6XHVrkX",
+      "artist": "Mike Campbell",
+      "venue": "Atlanta Symphony Hall",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-12",
+      "url": "https://www.ticketmaster.com/mike-campbell-with-the-atlanta-symphony-atlanta-georgia-09-12-2026/event/0E00647FBCD1E1BE"
+    },
+    {
+      "id": "tm_vvG1zZbzEdOtGz",
+      "artist": "Bethel Music",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/bethel-music-2026-tour-atlanta-georgia-10-09-2026/event/0E006389C3829338"
+    },
+    {
+      "id": "tm_1AeFZ_7GkU5wKxH",
+      "artist": "Phil Wickham",
+      "venue": "Addition Financial Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/song-of-the-saints-tour-with-orlando-florida-10-09-2026/event/2200644D8BC938BC"
+    },
+    {
+      "id": "tm_vvG1zZ_190mrUO",
+      "artist": "Movements",
+      "venue": "Tabernacle",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-07",
+      "url": "https://www.ticketmaster.com/movements-happier-now-usa-tour-atlanta-georgia-11-07-2026/event/0E0064A5E4B9EDA0"
+    },
+    {
+      "id": "tm_vvG1zZ_1UJCm2F",
+      "artist": "Indigo Girls",
+      "venue": "Cobb Energy Performing Arts Centre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-02",
+      "url": "https://www.ticketmaster.com/indigo-girls-with-linda-perry-atlanta-georgia-10-02-2026/event/0E0064ADA63AE3C8"
+    },
+    {
+      "id": "tm_G5eVZ_Fnx7m_T",
+      "artist": "Zach Williams",
+      "venue": "Crown Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-03",
+      "url": "https://www.ticketmaster.com/zach-williams-with-cochren-co-and-fayetteville-north-carolina-10-03-2026/event/2D00648AA212E67F"
+    },
+    {
+      "id": "tm_vvG1zZ_ue_cM5Z",
+      "artist": "Modest Mouse",
+      "venue": "Center Stage Theater",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/shaky-knees-presents-modest-mouse-atlanta-georgia-09-19-2026/event/0E0064D099B772C0"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7-P3o",
+      "artist": "W.A.S.P.",
+      "venue": "The Peabody Daytona Beach",
+      "genres": [
+        "Hard Rock",
+        "Rock"
+      ],
+      "date": "2026-09-23",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-P3o"
+    },
+    {
+      "id": "tm_17FOv0G6ukVnS0j",
+      "artist": "beabadoobee",
+      "venue": "Addition Financial Arena",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-13",
+      "url": "https://www.ticketmaster.com/beabadoobee-the-powerlines-tour-orlando-florida-10-13-2026/event/220064D1B4AB391C"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7JdxA",
+      "artist": "Kurt Vile",
+      "venue": "40 Watt Club",
+      "genres": [
+        "Rock & Roll",
+        "Rock"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JdxA"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7x_ZA",
+      "artist": "The Broken Hearts: Ultimate Tom Petty Tribute",
+      "venue": "The Amp Ballantyne",
+      "genres": [
+        "Rock"
+      ],
+      "date": "2026-09-11",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x_ZA"
+    },
+    {
+      "id": "tm_vvG1zZ_5CGMkPS",
+      "artist": "Periphery",
+      "venue": "Tabernacle",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-17",
+      "url": "https://www.ticketmaster.com/periphery-a-pale-white-dot-us-atlanta-georgia-11-17-2026/event/0E0064B38CDC6973"
+    },
+    {
+      "id": "tm_vvG1zZ_5KcjFA9",
+      "artist": "Catch Your Breath",
+      "venue": "Tabernacle",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-11-08",
+      "url": "https://www.ticketmaster.com/catch-your-breath-not-broken-enough-atlanta-georgia-11-08-2026/event/0E0064B4ED708157"
+    },
+    {
+      "id": "tm_G5eVZ_uh9GLbV",
+      "artist": "Indigo Girls",
+      "venue": "Knight Theater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-27",
+      "url": "https://tix.blumenthalarts.org/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=6DB9C131-75F7-4E7A-A903-47BF68B605C3"
+    },
+    {
+      "id": "tm_vvG1zZ_kQnlnlN",
+      "artist": "Empire of the Sun",
+      "venue": "Ameris Bank Amphitheatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-13",
+      "url": "https://www.ticketmaster.com/empire-of-the-sun-ask-that-alpharetta-georgia-09-13-2026/event/0E006466AAAEAAE3"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7-Ij6",
+      "artist": "Brit Floyd",
+      "venue": "Wilson Center-NC",
+      "genres": [
+        "Classic Rock",
+        "Rock"
+      ],
+      "date": "2026-08-13",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Ij6"
+    },
+    {
+      "id": "tm_G5eVZ_1pT4WoU",
+      "artist": "SWITCHFOOT",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-07",
+      "url": "https://www.ticketmaster.com/switchfoot-with-special-guest-anberlin-forever-wilmington-north-carolina-11-07-2026/event/2D0064A5BF57D476"
+    },
+    {
+      "id": "tm_vvG1zZ_k28LrbH",
+      "artist": "NEEDTOBREATHE",
+      "venue": "Ameris Bank Amphitheatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/needtobreathe-the-long-surrender-tour-alpharetta-georgia-09-19-2026/event/0E006463D07DE63C"
+    },
+    {
+      "id": "tm_vvG1zZ_kKS5d9Z",
+      "artist": "Franz Ferdinand",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-12",
+      "url": "https://www.ticketmaster.com/franz-ferdinand-greater-glasgow-cultural-exchange-atlanta-georgia-08-12-2026/event/0E006464F32C35C0"
+    },
+    {
+      "id": "tm_vvG1zZ_2OSzcki",
+      "artist": "BAND-MAID",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-07",
+      "url": "https://www.ticketmaster.com/bandmaid-world-tour-2026-atlanta-georgia-10-07-2026/event/0E0064F833E2D1AC"
+    },
+    {
+      "id": "tm_G5eVZ_kUOsu8x",
+      "artist": "The Wallflowers",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-07",
+      "url": "https://www.ticketmaster.com/the-wallflowers-wilmington-north-carolina-08-07-2026/event/2D00646DA0C4D422"
+    },
+    {
+      "id": "tm_vvG1zZ_GEEmMQ-",
+      "artist": "Ryan Beatty",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-12",
+      "url": "https://www.ticketmaster.com/ryan-beatty-arms-over-armor-north-atlanta-georgia-10-12-2026/event/0E0064C9E7BB76A1"
+    },
+    {
+      "id": "tm_vvG1zZ_GphyyzZ",
+      "artist": "Chuck Leavell",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-22",
+      "url": "https://www.ticketmaster.com/chuck-leavell-film-songs-and-stories-atlanta-georgia-08-22-2026/event/0E0064C59BE79E00"
+    },
+    {
+      "id": "tm_vvG1zZ_aOQ2jqR",
+      "artist": "LP",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-29",
+      "url": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-atlanta-georgia-09-29-2026/event/0E0064981A3DC76F"
+    },
+    {
+      "id": "tm_vvG1zZ_apUHXa6",
+      "artist": "Emei",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-24",
+      "url": "https://www.ticketmaster.com/emei-night-at-the-opera-tour-atlanta-georgia-10-24-2026/event/0E006495B6F3E247"
+    },
+    {
+      "id": "tm_vvG1zZ_6JCgJGo",
+      "artist": "PRESIDENT",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-23",
+      "url": "https://www.ticketmaster.com/president-north-american-campaign-2026-atlanta-georgia-09-23-2026/event/0E0064798ED66311"
+    },
+    {
+      "id": "tm_G5eVZ_CxKsa1X",
+      "artist": "Lucinda Williams",
+      "venue": "The Carolina",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-26",
+      "url": "https://www.ticketmaster.com/an-evening-with-lucinda-williams-and-charlotte-north-carolina-09-26-2026/event/2D0064E893C492BE"
+    },
+    {
+      "id": "tm_vvG1zZ_u5KBqNw",
+      "artist": "Chelsea Wolfe",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-13",
+      "url": "https://www.ticketmaster.com/chelsea-wolfe-the-dark-world-tour-atlanta-georgia-10-13-2026/event/0E0064D2D3E9D8F2"
+    },
+    {
+      "id": "tm_vvG1zZ_u5sfw6e",
+      "artist": "Turnover",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-08",
+      "url": "https://www.ticketmaster.com/turnover-down-on-earth-tour-atlanta-georgia-12-08-2026/event/0E0064D2F15321C2"
+    },
+    {
+      "id": "tm_vvG1zZ_u7iI0j5",
+      "artist": "A.J. McLean",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-18",
+      "url": "https://www.ticketmaster.com/aj-mclean-presents-alexander-james-the-atlanta-georgia-11-18-2026/event/0E0064D12CA2470B"
+    },
+    {
+      "id": "tm_vvG1zZ_2Zow1Ql",
+      "artist": "Michael Franti",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-25",
+      "url": "https://www.ticketmaster.com/michael-franti-trio-heartstrings-dynamite-atlanta-georgia-09-25-2026/event/0E0064F011C8A6AB"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfPNPN",
+      "artist": "GAINESVILLE (UNOFFICIAL) PRE-FEST #8",
+      "venue": "The Backyard",
+      "genres": [
+        "Alternative Rock",
+        "Alternative"
+      ],
+      "date": "2026-10-22",
+      "url": "https://www.ticketweb.com/event/gainesville-unofficial-pre-fest-8-the-backyard-tickets/14963963"
+    },
+    {
+      "id": "tm_vvG1zZ_dLxGDz_",
+      "artist": "The Fray",
+      "venue": "Synovus Bank Amphitheater at Chastain Park",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-05",
+      "url": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-atlanta-georgia-08-05-2026/event/0E006437E233BE19"
+    },
+    {
+      "id": "tm_G5eVZ_G57N0_9",
+      "artist": "Rodrigo y Gabriela",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-16",
+      "url": "https://www.ticketmaster.com/rodrigo-y-gabriela-ourhome-tour-wilmington-north-carolina-10-16-2026/event/2D0064C2C48E4657"
+    },
+    {
+      "id": "tm_G5eVZ_Glwxqjn",
+      "artist": "Here Come the Mummies",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-10",
+      "url": "https://www.ticketmaster.com/here-come-the-mummies-charlotte-north-carolina-09-10-2026/event/2D0064CAF289D72A"
+    },
+    {
+      "id": "tm_vvG1zZ_Cl6xuu3",
+      "artist": "The Residents",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-20",
+      "url": "https://www.ticketmaster.com/the-residents-eskimo-live-atlanta-georgia-10-20-2026/event/0E0064EAC788D352"
+    },
+    {
+      "id": "tm_G5eVZ_k3b1jEG",
+      "artist": "Franz Ferdinand",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-11",
+      "url": "https://www.ticketmaster.com/franz-ferdinand-greater-glasgow-cultural-exchange-charlotte-north-carolina-08-11-2026/event/2D0064649829C9CC"
+    },
+    {
+      "id": "tm_G5eVZ_1Qyjcmp",
+      "artist": "The Stews",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-22",
+      "url": "https://www.ticketmaster.com/the-stews-wilmington-north-carolina-08-22-2026/event/2D0064A6B972DB96"
+    },
+    {
+      "id": "tm_17FOv0G62Uqyw_5",
+      "artist": "Third Day",
+      "venue": "Donald L. Tucker Civic Center",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2027-04-11",
+      "url": "https://www.ticketmaster.com/third-day-with-very-special-guest-tallahassee-florida-04-11-2027/event/220064FD9DE7264B"
+    },
+    {
+      "id": "tm_Z7r9jZ1A704ow",
+      "artist": "Black Flag",
+      "venue": "Ground Zero - SC",
+      "genres": [
+        "Punk",
+        "Rock"
+      ],
+      "date": "2026-10-04",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A704ow"
+    },
+    {
+      "id": "tm_G5eVZ_2L7rPWT",
+      "artist": "Joy Oladokun",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-17",
+      "url": "https://www.ticketmaster.com/joy-oladokun-the-heavy-things-tour-charlotte-north-carolina-11-17-2026/event/2D0064F7C47A5F7F"
+    },
+    {
+      "id": "tm_G5eVZ_7l_sH3m",
+      "artist": "Bruce Cockburn",
+      "venue": "The Carolina",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-30",
+      "url": "https://www.ticketmaster.com/bruce-cockburn-with-livingston-taylor-charlotte-north-carolina-10-30-2026/event/2D00644AD9C7C4AE"
+    },
+    {
+      "id": "tm_G5eVZ_Gl1ZuTN",
+      "artist": "American Aquarium",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-04",
+      "url": "https://www.ticketmaster.com/american-aquarium-wilmington-north-carolina-09-04-2026/event/2D0064CACA00DFE3"
+    },
+    {
+      "id": "tm_G5eVZ_uLLrS26",
+      "artist": "The Gringos",
+      "venue": "Amos Southend",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-20",
+      "url": "https://www.etix.com/ticket/p/39648556/the-gringos-charlotte-amossouthend"
+    },
+    {
+      "id": "tm_G5eVZ_1MyLMui",
+      "artist": "American Aquarium",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-15",
+      "url": "https://www.ticketmaster.com/american-aquarium-charlotte-north-carolina-08-15-2026/event/2D0064ADF97F736C"
+    },
+    {
+      "id": "tm_G5eVZ_a9SixWB",
+      "artist": "Stewart Copeland",
+      "venue": "The Carolina",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/stewart-copeland-have-i-said-too-charlotte-north-carolina-11-22-2026/event/2D006495F3B22F7A"
+    },
+    {
+      "id": "tm_G5eVZ_G1HKvxD",
+      "artist": "Lettuce",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-04",
+      "url": "https://www.ticketmaster.com/lettuce-cook-tour-wilmington-north-carolina-10-04-2026/event/2D0064C2BC4C18BB"
+    },
+    {
+      "id": "tm_G5eVZ_ukSl6AY",
+      "artist": "Phillip Phillips",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-20",
+      "url": "https://www.ticketmaster.com/phillip-phillips-lets-go-far-tour-charlotte-north-carolina-11-20-2026/event/2D0064D1B3AC7170"
+    },
+    {
+      "id": "tm_G5eVZ_CN6nS9g",
+      "artist": "Mariachi El Bronx",
+      "venue": "The Carolina",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-01",
+      "url": "https://www.ticketmaster.com/mariachi-el-bronx-charlotte-north-carolina-10-01-2026/event/2D0064E8C7AB35F5"
+    },
+    {
+      "id": "tm_G5eVZ_5U4xr0c",
+      "artist": "French Police",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-21",
+      "url": "https://www.ticketmaster.com/french-police-charlotte-north-carolina-09-21-2026/event/2D0064BD9589E92D"
+    },
+    {
+      "id": "tm_G5eVZ_F2V-asz",
+      "artist": "Kurt Vile & the Violators",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-22",
+      "url": "https://www.ticketmaster.com/kurt-vile-the-violators-charlotte-north-carolina-11-22-2026/event/2D006483F4849C78"
+    },
+    {
+      "id": "tm_G5eVZ_5zJBrRW",
+      "artist": "Castle Rat",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-25",
+      "url": "https://www.ticketmaster.com/castle-rat-summon-the-beasts-tour-charlotte-north-carolina-09-25-2026/event/2D0064BE26E9EBFD"
+    },
+    {
+      "id": "tm_G5eVZ_GlDneJ7",
+      "artist": "Carbon Leaf",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.ticketmaster.com/carbon-leaf-charlotte-north-carolina-11-19-2026/event/2D0064CAFBA82984"
+    },
+    {
+      "id": "tm_G5eVZ_FFotiEd",
+      "artist": "The Mars Volta",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-15",
+      "url": "https://www.ticketmaster.com/the-mars-volta-sold-out-charlotte-north-carolina-09-15-2026/event/2D00648211A6C9C3"
+    },
+    {
+      "id": "tm_G5eVZ_a6vAQjj",
+      "artist": "Emarosa",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-01",
+      "url": "https://www.ticketmaster.com/emarosa-high-horse-heaven-tour-charlotte-north-carolina-09-01-2026/event/2D006491C115A71C"
+    },
+    {
+      "id": "tm_G5eVZ_kI7rrQb",
+      "artist": "The Dirty Guv'nahs",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-04",
+      "url": "https://www.ticketmaster.com/the-dirty-guvnahs-20th-anniversary-tour-charlotte-north-carolina-09-04-2026/event/2D00646A0479E698"
+    },
+    {
+      "id": "tm_G5eVZ_uFMM4-x",
+      "artist": "greek",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-08-25",
+      "url": "https://www.ticketmaster.com/greek-live-tour-charlotte-north-carolina-08-25-2026/event/2D0064D237DD5862"
+    },
+    {
+      "id": "tm_G5eVZ_6dMTqk_",
+      "artist": "Lettuce",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-08-23",
+      "url": "https://www.ticketmaster.com/lettuce-cook-tour-charlotte-north-carolina-08-23-2026/event/2D006470F7FDD199"
+    },
+    {
+      "id": "tm_G5eVZ_5h0xnd4",
+      "artist": "Jenna Raine",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/jenna-raine-jeans-boys-jesus-tour-charlotte-north-carolina-09-19-2026/event/2D0064B6E48AA0D5"
+    },
+    {
+      "id": "tm_G5eVZ_ud49lJj",
+      "artist": "Andy Frasco & the U.N.",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-02",
+      "url": "https://www.ticketmaster.com/andy-frasco-the-un-wilmington-north-carolina-10-02-2026/event/2D0064D0D55EB99C"
+    },
+    {
+      "id": "tm_G5eVZ_1kL24WA",
+      "artist": "Paula Cole",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-15",
+      "url": "https://www.ticketmaster.com/paula-cole-this-fire-30-charlotte-north-carolina-11-15-2026/event/2D0064A19F3D5F45"
+    },
+    {
+      "id": "tm_G5eVZ_2KNz7j9",
+      "artist": "Winyah",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-10",
+      "url": "https://www.ticketmaster.com/winyah-charlotte-north-carolina-12-10-2026/event/2D0064F4E3E04717"
+    },
+    {
+      "id": "tm_G5eVZ_5d-H2sn",
+      "artist": "Jammy Buffet",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-02",
+      "url": "https://www.ticketmaster.com/jammy-buffet-charlotte-north-carolina-10-02-2026/event/2D0064B0E1F0FC6A"
+    },
+    {
+      "id": "tm_G5eVZ_Gm4yDPw",
+      "artist": "Katie Pruitt",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/katie-pruitt-fools-for-the-fleeting-charlotte-north-carolina-11-13-2026/event/2D0064CB95E7B972"
+    },
+    {
+      "id": "tm_G5eVZ_uDFlDO0",
+      "artist": "New Constellations",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-11-12",
+      "url": "https://www.ticketmaster.com/new-constellations-it-comes-in-waves-charlotte-north-carolina-11-12-2026/event/2D0064DEC8AFB824"
+    },
+    {
+      "id": "tm_G5eVZ_G8RGJVs",
+      "artist": "Bombargo",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-10-17",
+      "url": "https://www.ticketmaster.com/bombargo-love-in-spite-of-everything-charlotte-north-carolina-10-17-2026/event/2D0064C42F326D31"
+    },
+    {
+      "id": "tm_G5eVZ_CnlB49M",
+      "artist": "Friendship",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "date": "2026-12-11",
+      "url": "https://www.ticketmaster.com/friendship-charlotte-cornfield-charlotte-north-carolina-12-11-2026/event/2D0064EAABE955F7"
+    },
+    {
+      "id": "tm_G5eVZ_18az3eb",
+      "artist": "L7",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-19",
+      "url": "https://www.ticketmaster.com/l7-the-last-hurrah-tour-2026-charlotte-north-carolina-10-19-2026/event/2D0064A409E12098"
+    },
+    {
+      "id": "tm_G5eVZ_aphPnkK",
+      "artist": "Gable Price And Friends",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-10-03",
+      "url": "https://www.ticketmaster.com/gable-price-and-friends-too-good-charlotte-north-carolina-10-03-2026/event/2D0064959B96A193"
+    },
+    {
+      "id": "tm_G5eVZ_GmhpGUu",
+      "artist": "Hazlett",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-23",
+      "url": "https://www.ticketmaster.com/hazlett-charlotte-north-carolina-09-23-2026/event/2D0064CB9B58CD8D"
+    },
+    {
+      "id": "tm_G5eVZ_5Mn__-y",
+      "artist": "Uncle Acid and the Deadbeats",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Alternative Rock",
+        "Rock"
+      ],
+      "date": "2026-09-08",
+      "url": "https://www.ticketmaster.com/uncle-acid-the-deadbeats-north-america-charlotte-north-carolina-09-08-2026/event/2D0064BDEA659879"
     }
   ]
 }
