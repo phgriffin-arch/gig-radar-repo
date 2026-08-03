@@ -208,7 +208,9 @@ async function ghPutFile(path, obj, sha, message){
   });
   if(!res.ok){
     const detail = await res.json().catch(() => ({}));
-    throw new Error(detail.message || `Couldn't save ${path} (${res.status})`);
+    const err = new Error(detail.message || `Couldn't save ${path} (${res.status})`);
+    err.isConflict = res.status === 409;
+    throw err;
   }
 }
 
@@ -293,22 +295,42 @@ function setWatchlistStatus(text, kind){
   el.className = "status-text" + (kind ? " " + kind : "");
 }
 
-async function withFreshWatchlist(fn){
+let watchlistWriteInProgress = false;
+
+function setWatchlistControlsEnabled(enabled){
+  document.getElementById("addBtn").disabled = !enabled || !hasToken();
+  document.querySelectorAll("#watchlistChips button[data-idx]").forEach(b => {
+    b.disabled = !enabled || !hasToken();
+  });
+}
+
+async function withFreshWatchlist(fn, isRetry){
   // Always re-fetch via the API right before writing, so we have the current
   // sha even if someone else (or the Actions bot) changed the file since page load.
   const { json, sha } = await ghGetFile("watchlist.json");
   watchlistCache = { json, sha };
-  return fn(json, sha);
+  try{
+    return await fn(json, sha);
+  }catch(e){
+    // Someone else's write landed between our read and our write (e.g. a
+    // double-click or two edits happening close together) — refetch the
+    // now-current file and try exactly once more before giving up.
+    if(e.isConflict && !isRetry){
+      return withFreshWatchlist(fn, true);
+    }
+    throw e;
+  }
 }
 
 async function addToWatchlist(){
   if(!hasToken()){ focusConnectPanel(); return; }
+  if(watchlistWriteInProgress) return;
   const kind = document.getElementById("newKind").value;
   const value = document.getElementById("newValue").value.trim();
   if(!value) return;
 
-  const addBtn = document.getElementById("addBtn");
-  addBtn.disabled = true;
+  watchlistWriteInProgress = true;
+  setWatchlistControlsEnabled(false);
   setWatchlistStatus("Adding…");
   try{
     await withFreshWatchlist(async (json, sha) => {
@@ -322,11 +344,15 @@ async function addToWatchlist(){
   }catch(e){
     setWatchlistStatus(e.message, "err");
   }finally{
-    addBtn.disabled = false;
+    watchlistWriteInProgress = false;
+    setWatchlistControlsEnabled(true);
   }
 }
 
 async function removeFromWatchlist(idx){
+  if(watchlistWriteInProgress) return;
+  watchlistWriteInProgress = true;
+  setWatchlistControlsEnabled(false);
   setWatchlistStatus("Removing…");
   try{
     await withFreshWatchlist(async (json, sha) => {
@@ -338,12 +364,16 @@ async function removeFromWatchlist(idx){
     setWatchlistStatus("Removed ✓", "ok");
   }catch(e){
     setWatchlistStatus(e.message, "err");
+  }finally{
+    watchlistWriteInProgress = false;
+    setWatchlistControlsEnabled(true);
   }
 }
 
 async function searchNow(){
   if(!hasToken()){ focusConnectPanel(); return; }
   const btn = document.getElementById("searchNowBtn");
+  if(btn.disabled) return;
   btn.disabled = true;
   const originalText = btn.textContent;
   btn.textContent = "Starting…";
