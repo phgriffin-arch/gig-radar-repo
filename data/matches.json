@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-03T15:24:46.934993+00:00",
+  "last_checked": "2026-08-03T15:43:15.650915+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -631,6 +631,28 @@
       ],
       "date": "2026-10-03",
       "url": "https://www.ticketmaster.com/daniel-donatos-cosmic-country-atlanta-georgia-10-03-2026/event/0E0064BBA3D6B801"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7J4vF",
+      "artist": "Wynton Marsalis",
+      "venue": "Ponte Vedra Concert Hall",
+      "genres": [
+        "Jazz Blues",
+        "Blues"
+      ],
+      "date": "2027-01-29",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4vF"
+    },
+    {
+      "id": "tm_vvG1zZ_kGQTR0T",
+      "artist": "Josh Garrels",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Folk",
+        "Indie Folk"
+      ],
+      "date": "2026-11-11",
+      "url": "https://www.ticketmaster.com/josh-garrels-with-special-guest-taylor-atlanta-georgia-11-11-2026/event/0E0064631AFEF93F"
     }
   ]
 }
