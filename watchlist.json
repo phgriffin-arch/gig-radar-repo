@@ -61,6 +61,10 @@
     {
       "kind": "genre",
       "value": "blues"
+    },
+    {
+      "kind": "artist",
+      "value": "naked party"
     }
   ]
 }
