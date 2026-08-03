@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-03T16:03:06.608420+00:00",
+  "last_checked": "2026-08-03T16:33:32.570306+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -664,6 +664,56 @@
       ],
       "date": "2027-01-29",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ3oF"
+    },
+    {
+      "id": "abs_the_sharks_2026-08-04_14",
+      "artist": "The Sharks",
+      "venue": "The Sharks host Industry Night at Blind Willie\u2019s  Thursday, August 6, 2026, 6pm-9pm: Little Becky & the Big Shots at Mad Italian Patio, Chamblee",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-04",
+      "url": "https://www.facebook.com/events/1563140991956844"
+    },
+    {
+      "id": "abs_blind_jive_2026-08-07_15",
+      "artist": "Blind Jive",
+      "venue": "Blind Jive w/ Atomic Plush at Eddie\u2019s Attic, Decatur",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-07",
+      "url": "https://www.facebook.com/events/858858733476853"
+    },
+    {
+      "id": "abs_chequered_blue_2026-08-07_16",
+      "artist": "Chequered Blue",
+      "venue": "Chequered Blue at Rock the Block, Duluth",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-07",
+      "url": "https://www.facebook.com/chequeredblue"
+    },
+    {
+      "id": "abs_cash\u2019s_juke_joint_2026-08-08_19",
+      "artist": "Cash\u2019s Juke Joint",
+      "venue": "Cash\u2019s Juke Joint at Blind Willie\u2019s, Atlanta",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-08",
+      "url": "https://www.facebook.com/events/28015123874747199"
+    },
+    {
+      "id": "abs_skyler_saufley_2026-08-11_23",
+      "artist": "Skyler Saufley",
+      "venue": "Skyler Saufley hosts Industry Night at Blind Willie\u2019s",
+      "genres": [
+        "blues"
+      ],
+      "date": "2026-08-11",
+      "url": "https://www.facebook.com/SkylerSaufleyMusic"
     }
   ]
 }
