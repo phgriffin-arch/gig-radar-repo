@@ -231,24 +231,39 @@ def main() -> None:
     tm_key = os.environ.get("TICKETMASTER_API_KEY")
     if tm_key:
         print("Fetching Ticketmaster...")
-        all_shows += fetch_ticketmaster(tm_key, lat, lng, radius)
+        tm_shows = fetch_ticketmaster(tm_key, lat, lng, radius)
+        print(f"  Ticketmaster: {len(tm_shows)} show(s)")
+        all_shows += tm_shows
+    else:
+        print("Ticketmaster: skipped (no TICKETMASTER_API_KEY set)")
 
     sg_client_id = os.environ.get("SEATGEEK_CLIENT_ID")
     if sg_client_id:
         print("Fetching SeatGeek...")
-        all_shows += fetch_seatgeek(sg_client_id, lat, lng, radius)
+        sg_shows = fetch_seatgeek(sg_client_id, lat, lng, radius)
+        print(f"  SeatGeek: {len(sg_shows)} show(s)")
+        all_shows += sg_shows
+    else:
+        print("SeatGeek: skipped (no SEATGEEK_CLIENT_ID set)")
 
     bt_app_id = os.environ.get("BANDSINTOWN_APP_ID")
     if bt_app_id:
         artist_watches = [w["value"] for w in config["watchlist"] if w["kind"] == "artist"]
+        bt_shows = []
         for artist in artist_watches:
             print(f"Fetching Bandsintown for {artist}...")
-            all_shows += fetch_bandsintown(bt_app_id, artist, lat, lng, radius)
+            bt_shows += fetch_bandsintown(bt_app_id, artist, lat, lng, radius)
+        print(f"  Bandsintown: {len(bt_shows)} show(s)")
+        all_shows += bt_shows
+    else:
+        print("Bandsintown: skipped (no BANDSINTOWN_APP_ID set)")
 
     print("Running any configured site scrapers...")
-    all_shows += run_all_scrapers(lat, lng, radius)
+    scraper_shows = run_all_scrapers(lat, lng, radius)
+    print(f"  Scrapers: {len(scraper_shows)} show(s)")
+    all_shows += scraper_shows
 
-    print(f"Fetched {len(all_shows)} candidate show(s)")
+    print(f"Fetched {len(all_shows)} candidate show(s) total")
 
     new_matches = []
     for show in all_shows:
