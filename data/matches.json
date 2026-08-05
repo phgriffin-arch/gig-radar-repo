@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-05T06:15:04.392954+00:00",
+  "last_checked": "2026-08-05T16:12:54.949565+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5712,6 +5712,46 @@
       ],
       "date": "2026-08-06",
       "url": "https://www.ticketmaster.com/gary-allan-fayetteville-north-carolina-08-06-2026/event/2D006473B7865014"
+    },
+    {
+      "id": "tm_vvG1zZ_8Cg3FSP",
+      "artist": "Sawyer Brown",
+      "venue": "Evans Towne Center Park ",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-02",
+      "url": "https://www.ticketmaster.com/sawyer-brown-at-evans-towne-center-evans-georgia-10-02-2026/event/0E006503B5488CE5"
+    },
+    {
+      "id": "tm_vvG1zZ_8CgbFVe",
+      "artist": "Jackson Dean",
+      "venue": "Evans Towne Center Park ",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-06",
+      "url": "https://www.ticketmaster.com/jackson-dean-at-evans-towne-center-evans-georgia-11-06-2026/event/0E006503B5608D02"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAZf7z",
+      "artist": "Avery Anna",
+      "venue": "FIVE",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZf7z"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAZKZP",
+      "artist": "Avery Anna",
+      "venue": "Georgia Theatre",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-23",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZKZP"
     }
   ]
 }
