@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-09T08:10:14.433435+00:00",
+  "last_checked": "2026-08-09T10:57:40.337597+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5772,6 +5772,16 @@
       ],
       "date": "2026-08-16",
       "url": "https://www.ticketmaster.com/robert-earl-keen-then-and-now-wilmington-north-carolina-08-16-2026/event/2D0064729F91D4FF"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAZ936",
+      "artist": "Doug Brewin",
+      "venue": "The Peabody Daytona Beach",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-01-15",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ936"
     }
   ]
 }
