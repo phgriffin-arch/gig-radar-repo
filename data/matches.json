@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-11T09:36:48.119796+00:00",
+  "last_checked": "2026-08-11T15:30:30.180959+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5793,6 +5793,26 @@
       ],
       "date": "2026-09-26",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7ox"
+    },
+    {
+      "id": "tm_G5eVZ_89H9lvO",
+      "artist": "Sugarland",
+      "venue": "North Charleston Coliseum",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-02",
+      "url": "https://www.ticketmaster.com/sugarland-ride-or-die-tour-north-charleston-south-carolina-10-02-2026/event/2D006505FC5EB060"
+    },
+    {
+      "id": "tm_vvG1zZ_8roP40B",
+      "artist": "Sugarland",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-07",
+      "url": "https://www.ticketmaster.com/sugarland-duluth-georgia-11-07-2026/event/0E0065079195593A"
     }
   ]
 }
