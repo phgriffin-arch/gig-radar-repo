@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-12T15:30:42.158013+00:00",
+  "last_checked": "2026-08-12T20:11:34.635015+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5813,6 +5813,16 @@
       ],
       "date": "2026-11-07",
       "url": "https://www.ticketmaster.com/sugarland-duluth-georgia-11-07-2026/event/0E0065079195593A"
+    },
+    {
+      "id": "tm_G5eVZ_8Qqo1Qe",
+      "artist": "Austin Snell",
+      "venue": "Music Farm",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-14",
+      "url": "https://www.ticketmaster.com/austin-snell-charleston-south-carolina-11-14-2026/event/2D0065069D44A682"
     }
   ]
 }
