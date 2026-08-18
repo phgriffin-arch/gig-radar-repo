@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-18T10:02:44.584246+00:00",
+  "last_checked": "2026-08-18T14:06:30.738686+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5834,6 +5834,16 @@
       ],
       "date": "2026-10-01",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJrf"
+    },
+    {
+      "id": "tm_vvG1zZ_8MZhDf8",
+      "artist": "Alabama",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-15",
+      "url": "https://www.ticketmaster.com/alabama-live-in-concert-duluth-georgia-10-15-2026/event/0E00650DC06FB510"
     }
   ]
 }
