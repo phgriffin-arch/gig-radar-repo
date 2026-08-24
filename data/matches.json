@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-24T08:28:19.178553+00:00",
+  "last_checked": "2026-08-24T10:58:17.258289+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5854,6 +5854,27 @@
       ],
       "date": "2026-10-29",
       "url": "https://www.ticketmaster.com/brandy-clark-atlanta-georgia-10-29-2026/event/0E006458D8FA8156"
+    },
+    {
+      "id": "tm_G5eVZ_8rM5NGV",
+      "artist": "Velvet Rodeo",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-09-05",
+      "url": "https://www.ticketmaster.com/a-night-for-heroes-starring-velvet-wilmington-north-carolina-09-05-2026/event/2D006507B72E3334"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7Pt-v",
+      "artist": "Indigo Girls",
+      "venue": "Wilson Center-NC",
+      "genres": [
+        "Country",
+        "Country Folk"
+      ],
+      "date": "2026-10-11",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt-v"
     }
   ]
 }
