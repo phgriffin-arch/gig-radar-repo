@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-23T21:48:28.338857+00:00",
+  "last_checked": "2026-08-24T03:33:22.637606+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5844,6 +5844,16 @@
       ],
       "date": "2026-10-15",
       "url": "https://www.ticketmaster.com/alabama-live-in-concert-duluth-georgia-10-15-2026/event/0E00650DC06FB510"
+    },
+    {
+      "id": "tm_vvG1zZ_ANbXIAp",
+      "artist": "Brandy Clark",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-29",
+      "url": "https://www.ticketmaster.com/brandy-clark-atlanta-georgia-10-29-2026/event/0E006458D8FA8156"
     }
   ]
 }
