@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-25T14:28:00.847210+00:00",
+  "last_checked": "2026-08-25T17:04:59.050260+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5875,6 +5875,16 @@
       ],
       "date": "2026-10-11",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pt-v"
+    },
+    {
+      "id": "tm_vvG1zZ_okTgW7i",
+      "artist": "Aaron Lewis",
+      "venue": "Macon City Auditorium",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/aaron-lewis-acoustic-tour-macon-georgia-11-13-2026/event/0E006511BFD7D12C"
     }
   ]
 }
