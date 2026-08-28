@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-28T01:01:26.976573+00:00",
+  "last_checked": "2026-08-28T21:55:28.418473+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5885,6 +5885,39 @@
       ],
       "date": "2026-11-13",
       "url": "https://www.ticketmaster.com/aaron-lewis-acoustic-tour-macon-georgia-11-13-2026/event/0E006511BFD7D12C"
+    },
+    {
+      "id": "tm_vvG1zZ_oiNWE2B",
+      "artist": "Billy Strings",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Country",
+        "Bluegrass"
+      ],
+      "date": "2027-02-12",
+      "url": "https://www.ticketmaster.com/billy-strings-2day-ticket-212213-valid-duluth-georgia-02-12-2027/event/0E00651B23F673FA"
+    },
+    {
+      "id": "tm_vvG1zZ_oiNX98F",
+      "artist": "Billy Strings",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Country",
+        "Bluegrass"
+      ],
+      "date": "2027-02-12",
+      "url": "https://www.ticketmaster.com/billy-strings-duluth-georgia-02-12-2027/event/0E00651B23F97408"
+    },
+    {
+      "id": "tm_vvG1zZ_oiNTE8L",
+      "artist": "Billy Strings",
+      "venue": "Gas South Arena",
+      "genres": [
+        "Country",
+        "Bluegrass"
+      ],
+      "date": "2027-02-13",
+      "url": "https://www.ticketmaster.com/billy-strings-duluth-georgia-02-13-2027/event/0E00651B23FE741F"
     }
   ]
 }
