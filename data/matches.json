@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-31T18:07:28.984070+00:00",
+  "last_checked": "2026-08-31T21:07:13.553491+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5928,6 +5928,16 @@
       ],
       "date": "2026-11-08",
       "url": "https://www.ticketmaster.com/jackson-dean-north-myrtle-beach-south-carolina-11-08-2026/event/2D00651BB3F1C808"
+    },
+    {
+      "id": "tm_G5eVZ_oTKOUae",
+      "artist": "Stars & Guitars",
+      "venue": "Crown Coliseum",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-09",
+      "url": "https://www.ticketmaster.com/957-wkml-stars-guitars-2026-fayetteville-north-carolina-11-09-2026/event/2D00651FD3836242"
     }
   ]
 }
