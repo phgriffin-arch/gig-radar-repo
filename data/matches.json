@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-31T12:08:04.786393+00:00",
+  "last_checked": "2026-08-31T15:07:04.994621+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5918,6 +5918,16 @@
       ],
       "date": "2027-02-13",
       "url": "https://www.ticketmaster.com/billy-strings-duluth-georgia-02-13-2027/event/0E00651B23FE741F"
+    },
+    {
+      "id": "tm_G5eVZ_omSHjOF",
+      "artist": "Jackson Dean",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-08",
+      "url": "https://www.ticketmaster.com/jackson-dean-north-myrtle-beach-south-carolina-11-08-2026/event/2D00651BB3F1C808"
     }
   ]
 }
