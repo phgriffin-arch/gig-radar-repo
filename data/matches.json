@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-05T03:39:09.161468+00:00",
+  "last_checked": "2026-09-05T10:13:18.402494+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5948,6 +5948,16 @@
       ],
       "date": "2026-12-10",
       "url": "https://www.ticketweb.com/event/limbo-at-the-refinery-presents-the-refinery-tickets/14298294"
+    },
+    {
+      "id": "tm_vvG1zZ_oiirzlo",
+      "artist": "Jackson Dean",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-30",
+      "url": "https://www.ticketmaster.com/jackson-dean-atlanta-georgia-10-30-2026/event/0E00651B2C7B8AD1"
     }
   ]
 }
