@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-07T03:40:24.352562+00:00",
+  "last_checked": "2026-09-07T11:58:10.307711+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5968,6 +5968,16 @@
       ],
       "date": "2026-10-17",
       "url": "https://www.ticketmaster.com/evan-honer-its-an-even-longer-wilmington-north-carolina-10-17-2026/event/2D0064C2F36C532A"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70w7V",
+      "artist": "Julia Cole",
+      "venue": "Amos Southend",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-16",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70w7V"
     }
   ]
 }
