@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-07T11:58:10.307711+00:00",
+  "last_checked": "2026-09-07T17:42:24.784253+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -5978,6 +5978,38 @@
       ],
       "date": "2026-10-16",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70w7V"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70UZI",
+      "artist": "Lauren Alaina",
+      "venue": "Coyote Joes",
+      "genres": [
+        "Country",
+        "Country Folk"
+      ],
+      "date": "2026-10-09",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70UZI"
+    },
+    {
+      "id": "tm_G5eVZ_59A1BM9",
+      "artist": "Julia Cole",
+      "venue": "Amos Southend",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-16",
+      "url": "https://www.etix.com/ticket/p/67489813/julia-cole-charlotte-amossouthend"
+    },
+    {
+      "id": "tm_G5eVZ_8HU8FtL",
+      "artist": "Kitchen Dwellers",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2026-11-07",
+      "url": "https://www.ticketmaster.com/kitchen-dwellers-dogs-in-a-pile-charlotte-north-carolina-11-07-2026/event/2D00650F36408A5F"
     }
   ]
 }
