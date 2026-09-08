@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-08T10:53:19.009166+00:00",
+  "last_checked": "2026-09-08T16:17:37.725099+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6010,6 +6010,36 @@
       ],
       "date": "2026-11-07",
       "url": "https://www.ticketmaster.com/kitchen-dwellers-dogs-in-a-pile-charlotte-north-carolina-11-07-2026/event/2D00650F36408A5F"
+    },
+    {
+      "id": "tm_G5eVZ_3xks9i0",
+      "artist": "Corey Kent",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-20",
+      "url": "https://www.ticketmaster.com/corey-kent-heartland-rock-and-roll-charleston-south-carolina-02-20-2027/event/2D00652886C57B24"
+    },
+    {
+      "id": "tm_G5eVZ_32N72aX",
+      "artist": "Corey Kent",
+      "venue": "The Senate",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-27",
+      "url": "https://www.ticketmaster.com/corey-kent-heartland-rock-and-roll-columbia-south-carolina-02-27-2027/event/2D006523E310F27E"
+    },
+    {
+      "id": "tm_vvG1zZ_31q_FKm",
+      "artist": "Corey Kent",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-18",
+      "url": "https://www.ticketmaster.com/corey-kent-atlanta-georgia-02-18-2027/event/0E0065229D6484EE"
     }
   ]
 }
