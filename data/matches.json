@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-09T16:12:22.962470+00:00",
+  "last_checked": "2026-09-09T20:41:24.796392+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6040,6 +6040,28 @@
       ],
       "date": "2027-02-18",
       "url": "https://www.ticketmaster.com/corey-kent-atlanta-georgia-02-18-2027/event/0E0065229D6484EE"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7Jo88",
+      "artist": "Dwight Yoakam",
+      "venue": "Jacksonville Fairgrounds",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2026-11-07",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jo88"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAZwOA",
+      "artist": "Dwight Yoakam",
+      "venue": "CCNB Amphitheatre at Heritage Park",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2026-11-06",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwOA"
     }
   ]
 }
