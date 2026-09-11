@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-11T10:52:42.605190+00:00",
+  "last_checked": "2026-09-11T16:08:24.354810+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6072,6 +6072,27 @@
       ],
       "date": "2026-11-14",
       "url": "https://www.ticketmaster.com/pecos-the-rooftops-charleston-south-carolina-11-14-2026/event/2D006523A949ED67"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfvpaV",
+      "artist": "Danny Worsnop",
+      "venue": "Conduit",
+      "genres": [
+        "Country",
+        "Rock"
+      ],
+      "date": "2026-09-12",
+      "url": "https://www.ticketweb.com/event/danny-worsnop-tyler-rich-conduit-tickets/14056274"
+    },
+    {
+      "id": "tm_G5eVZ_3ES4RxP",
+      "artist": "Hudson Westbrook",
+      "venue": "Ovens Auditorium",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-11",
+      "url": "https://www.ticketmaster.com/country-1037-stars-guitars-charlotte-north-carolina-11-11-2026/event/2D006529F356F8A5"
     }
   ]
 }
