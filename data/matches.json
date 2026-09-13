@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-13T03:57:12.965873+00:00",
+  "last_checked": "2026-09-13T11:20:59.279344+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6093,6 +6093,16 @@
       ],
       "date": "2026-11-11",
       "url": "https://www.ticketmaster.com/country-1037-stars-guitars-charlotte-north-carolina-11-11-2026/event/2D006529F356F8A5"
+    },
+    {
+      "id": "tm_G5eVZ_FTG8tvl",
+      "artist": "Benny G",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-09-24",
+      "url": "https://www.ticketmaster.com/benny-g-when-you-know-you-charlotte-north-carolina-09-24-2026/event/2D00648FCC42906B"
     }
   ]
 }
