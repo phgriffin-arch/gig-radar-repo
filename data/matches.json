@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-15T11:22:29.806332+00:00",
+  "last_checked": "2026-09-15T16:34:32.070694+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6103,6 +6103,46 @@
       ],
       "date": "2026-09-24",
       "url": "https://www.ticketmaster.com/benny-g-when-you-know-you-charlotte-north-carolina-09-24-2026/event/2D00648FCC42906B"
+    },
+    {
+      "id": "tm_G5eVZ_3C19bfO",
+      "artist": "Kenny Chesney",
+      "venue": "Bank of America Stadium",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-08-21",
+      "url": "https://www.ticketmaster.com/kenny-chesney-the-original-vibe-room-charlotte-north-carolina-08-21-2027/event/2D0065238A5D8520"
+    },
+    {
+      "id": "tm_vvG1zZ_3x03bY9",
+      "artist": "Kenny Chesney",
+      "venue": "Mercedes-Benz Stadium",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-07-31",
+      "url": "https://www.ticketmaster.com/kenny-chesney-the-original-vibe-room-atlanta-georgia-07-31-2027/event/0E006528A4498C17"
+    },
+    {
+      "id": "tm_G5eVZ_3BpM_Ea",
+      "artist": "Brandy Clark",
+      "venue": "Music Farm",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-03",
+      "url": "https://www.ticketmaster.com/brandy-clark-take-flight-world-tour-charleston-south-carolina-04-03-2027/event/2D00652E96DD99C9"
+    },
+    {
+      "id": "tm_G5eVZ_3NShoWE",
+      "artist": "Pecos & The Rooftops",
+      "venue": "The Senate",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/pecos-the-rooftops-columbia-south-carolina-11-13-2026/event/2D006528F36D1F67"
     }
   ]
 }
