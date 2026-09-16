@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-16T16:26:52.150082+00:00",
+  "last_checked": "2026-09-16T21:03:01.501814+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6163,6 +6163,28 @@
       ],
       "date": "2026-11-12",
       "url": "https://bit.ly/JacksonDeanNov12"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70KZe",
+      "artist": "Tommy Emmanuel",
+      "venue": "Ponte Vedra Concert Hall",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2026-12-10",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70KZe"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAvS4z",
+      "artist": "Tommy Emmanuel",
+      "venue": "Newberry Opera House",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2026-12-04",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvS4z"
     }
   ]
 }
