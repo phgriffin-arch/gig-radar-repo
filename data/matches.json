@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-16T11:06:57.355713+00:00",
+  "last_checked": "2026-09-16T16:26:52.150082+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6143,6 +6143,26 @@
       ],
       "date": "2026-11-13",
       "url": "https://www.ticketmaster.com/pecos-the-rooftops-columbia-south-carolina-11-13-2026/event/2D006528F36D1F67"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfG_Ff",
+      "artist": "Jackson Dean",
+      "venue": "Wendell's Indoors",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-12",
+      "url": "https://www.ticketweb.com/event/jackson-dean-wendells-indoors-tickets/14319214"
+    },
+    {
+      "id": "tm_G5eVZ_3DvTNSk",
+      "artist": "Jackson Dean",
+      "venue": "Wendell's",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-12",
+      "url": "https://bit.ly/JacksonDeanNov12"
     }
   ]
 }
