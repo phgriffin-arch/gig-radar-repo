@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-19T22:45:12.017179+00:00",
+  "last_checked": "2026-09-20T04:06:50.294401+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6185,6 +6185,27 @@
       ],
       "date": "2026-12-04",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvS4z"
+    },
+    {
+      "id": "tm_Z7r9jZ1A70F-s",
+      "artist": "Tommy Emmanuel",
+      "venue": "Knight Theater",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2026-12-07",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70F-s"
+    },
+    {
+      "id": "tm_vvG1zZ_ahe-RQk",
+      "artist": "Shaboozey",
+      "venue": "Synovus Bank Amphitheater at Chastain Park",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-09-19",
+      "url": "https://www.ticketmaster.com/shaboozey-outlaws-never-die-tour-atlanta-georgia-09-19-2026/event/0E006496C286F686"
     }
   ]
 }
