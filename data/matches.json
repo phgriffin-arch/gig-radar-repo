@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-21T12:21:23.225176+00:00",
+  "last_checked": "2026-09-21T19:54:05.085107+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6216,6 +6216,46 @@
       ],
       "date": "2026-09-26",
       "url": "https://www.ticketmaster.com/sam-barber-the-american-route-tour-atlanta-georgia-09-26-2026/event/0E006486B7039E8B"
+    },
+    {
+      "id": "tm_G5eVZ_K5nkU1K",
+      "artist": "Nashville Nights",
+      "venue": "Music Farm",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-01-29",
+      "url": "https://www.ticketmaster.com/nashville-nights-band-charleston-south-carolina-01-29-2027/event/2D006532EA1B6293"
+    },
+    {
+      "id": "tm_G5eVZ_Kk-U2xy",
+      "artist": "Graham Barham",
+      "venue": "Music Farm",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-29",
+      "url": "https://www.ticketmaster.com/graham-barham-club-country-tour-charleston-south-carolina-04-29-2027/event/2D006531A1D8F8B9"
+    },
+    {
+      "id": "tm_G5eVZ_3XSt3ZV",
+      "artist": "Braxton Keith",
+      "venue": "The Senate",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-08",
+      "url": "https://www.ticketmaster.com/braxton-keith-columbia-south-carolina-04-08-2027/event/2D00652FB3A52034"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAZIus",
+      "artist": "Austin Snell",
+      "venue": "40 Watt Club",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-19",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZIus"
     }
   ]
 }
