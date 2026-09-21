@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-21T04:04:16.373418+00:00",
+  "last_checked": "2026-09-21T12:21:23.225176+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6206,6 +6206,16 @@
       ],
       "date": "2026-09-19",
       "url": "https://www.ticketmaster.com/shaboozey-outlaws-never-die-tour-atlanta-georgia-09-19-2026/event/0E006496C286F686"
+    },
+    {
+      "id": "tm_vvG1zZ_FQMZyB5",
+      "artist": "Sam Barber",
+      "venue": "Synovus Bank Amphitheater at Chastain Park",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-09-26",
+      "url": "https://www.ticketmaster.com/sam-barber-the-american-route-tour-atlanta-georgia-09-26-2026/event/0E006486B7039E8B"
     }
   ]
 }
