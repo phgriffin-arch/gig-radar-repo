@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-22T11:12:53.432095+00:00",
+  "last_checked": "2026-09-22T16:34:47.536881+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6266,6 +6266,16 @@
       ],
       "date": "2027-04-17",
       "url": "https://www.ticketweb.com/event/braxton-keith-wendells-outdoors-tickets/14330534"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAvM1a",
+      "artist": "Gavin Adcock",
+      "venue": "The Eastern-GA",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-08",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvM1a"
     }
   ]
 }
