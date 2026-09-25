@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-25T16:51:36.632644+00:00",
+  "last_checked": "2026-09-25T21:16:28.058916+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6327,6 +6327,16 @@
       ],
       "date": "2027-04-17",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvz_I"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAZzCZ",
+      "artist": "Mike Zito",
+      "venue": "Cafe Eleven",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2026-12-13",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZzCZ"
     }
   ]
 }
