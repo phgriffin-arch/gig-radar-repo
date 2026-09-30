@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-29T19:51:58.079127+00:00",
+  "last_checked": "2026-09-30T00:08:42.459890+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6367,6 +6367,17 @@
       ],
       "date": "2027-04-17",
       "url": "https://bit.ly/BraxtonKeithApr17"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAvSr3",
+      "artist": "Ricky Skaggs",
+      "venue": "Peace Center",
+      "genres": [
+        "Country",
+        "Country Folk"
+      ],
+      "date": "2026-12-15",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvSr3"
     }
   ]
 }
