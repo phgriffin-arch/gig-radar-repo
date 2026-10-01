@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-01T12:43:42.110347+00:00",
+  "last_checked": "2026-10-01T20:12:06.930263+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6378,6 +6378,16 @@
       ],
       "date": "2026-12-15",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvSr3"
+    },
+    {
+      "id": "tm_G5eVZ_KSmjPs3",
+      "artist": "The Red Clay Strays",
+      "venue": "Colonial Life Arena",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-01-23",
+      "url": "https://www.ticketmaster.com/the-red-clay-strays-columbia-south-carolina-01-23-2027/event/2D00653CEE725C52"
     }
   ]
 }
