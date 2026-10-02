@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-02T09:30:01.025190+00:00",
+  "last_checked": "2026-10-02T17:38:54.271258+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6388,6 +6388,36 @@
       ],
       "date": "2027-01-23",
       "url": "https://www.ticketmaster.com/the-red-clay-strays-columbia-south-carolina-01-23-2027/event/2D00653CEE725C52"
+    },
+    {
+      "id": "tm_G5eVZ_KDP4j6Z",
+      "artist": "Dylan Gossett",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-03-25",
+      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-charleston-south-carolina-03-25-2027/event/2D00653EE555C1C0"
+    },
+    {
+      "id": "tm_G5eVZ_KUXKrl8",
+      "artist": "Dylan Gossett",
+      "venue": "House of Blues Myrtle Beach",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-03-26",
+      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-north-myrtle-beach-south-carolina-03-26-2027/event/2D00653DBE4DEAD0"
+    },
+    {
+      "id": "tm_G5eVZ_KB2iEPf",
+      "artist": "Dylan Gossett",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-03-27",
+      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-charlotte-north-carolina-03-27-2027/event/2D00653E8FB27954"
     }
   ]
 }
