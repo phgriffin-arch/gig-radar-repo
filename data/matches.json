@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-02T17:38:54.271258+00:00",
+  "last_checked": "2026-10-02T21:58:18.870668+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6418,6 +6418,16 @@
       ],
       "date": "2027-03-27",
       "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-charlotte-north-carolina-03-27-2027/event/2D00653E8FB27954"
+    },
+    {
+      "id": "tm_G5eVZ_f5ZTy4P",
+      "artist": "Patrick Davis",
+      "venue": "The Senate",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-12-05",
+      "url": "https://www.ticketmaster.com/patrick-davis-toys-4-tots-columbia-south-carolina-12-05-2026/event/2D006542C0FF9565"
     }
   ]
 }
