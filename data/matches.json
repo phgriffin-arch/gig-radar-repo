@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-02T21:58:18.870668+00:00",
+  "last_checked": "2026-10-03T04:29:50.963362+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6428,6 +6428,17 @@
       ],
       "date": "2026-12-05",
       "url": "https://www.ticketmaster.com/patrick-davis-toys-4-tots-columbia-south-carolina-12-05-2026/event/2D006542C0FF9565"
+    },
+    {
+      "id": "tm_G5eVZ_CkWuGbI",
+      "artist": "The Infamous Stringdusters",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Country",
+        "Bluegrass"
+      ],
+      "date": "2026-10-15",
+      "url": "https://www.ticketmaster.com/the-infamous-stringdusters-charlotte-north-carolina-10-15-2026/event/2D0064E1BD34C628"
     }
   ]
 }
