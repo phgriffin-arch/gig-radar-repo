@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-03T23:36:12.565361+00:00",
+  "last_checked": "2026-10-04T05:00:26.517849+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6439,6 +6439,17 @@
       ],
       "date": "2026-10-15",
       "url": "https://www.ticketmaster.com/the-infamous-stringdusters-charlotte-north-carolina-10-15-2026/event/2D0064E1BD34C628"
+    },
+    {
+      "id": "tm_G5eVZ_G2CGTnA",
+      "artist": "AJ Lee & Blue Summit",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2026-10-24",
+      "url": "https://www.ticketmaster.com/aj-lee-blue-summit-charlotte-north-carolina-10-24-2026/event/2D0064C3CE33FA85"
     }
   ]
 }
