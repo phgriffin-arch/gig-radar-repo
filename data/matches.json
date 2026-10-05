@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-04T21:02:10.160561+00:00",
+  "last_checked": "2026-10-05T04:47:18.424096+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6460,6 +6460,16 @@
       ],
       "date": "2026-10-16",
       "url": "https://www.ticketmaster.com/colby-acuff-the-handmade-horsepower-tour-charlotte-north-carolina-10-16-2026/event/2D0064D2D9F6E771"
+    },
+    {
+      "id": "tm_G5eVZ_uDvPQwl",
+      "artist": "Eddie And The Getaway",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-12-03",
+      "url": "https://www.ticketmaster.com/eddie-and-the-getaway-the-over-charlotte-north-carolina-12-03-2026/event/2D0064DEC195ACAB"
     }
   ]
 }
