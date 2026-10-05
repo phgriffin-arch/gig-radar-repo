@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-05T14:00:58.352938+00:00",
+  "last_checked": "2026-10-05T21:53:30.028968+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6470,6 +6470,26 @@
       ],
       "date": "2026-12-03",
       "url": "https://www.ticketmaster.com/eddie-and-the-getaway-the-over-charlotte-north-carolina-12-03-2026/event/2D0064DEC195ACAB"
+    },
+    {
+      "id": "tm_G5eVZ_KBMYwHz",
+      "artist": "Warren Zeiders",
+      "venue": "Township Auditorium",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-29",
+      "url": "https://www.ticketmaster.com/warren-zeiders-no-brakes-tour-columbia-south-carolina-04-29-2027/event/2D00653EB7C32F38"
+    },
+    {
+      "id": "tm_vvG1zZ_f6dz4aP",
+      "artist": "Warren Zeiders",
+      "venue": "Coca-Cola Roxy",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-30",
+      "url": "https://www.ticketmaster.com/warren-zeiders-no-brakes-tour-atlanta-georgia-04-30-2027/event/0E006541C3E15265"
     }
   ]
 }
