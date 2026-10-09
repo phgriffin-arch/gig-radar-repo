@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-09T01:02:51.071685+00:00",
+  "last_checked": "2026-10-09T10:13:55.168238+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6500,6 +6500,17 @@
       ],
       "date": "2026-10-22",
       "url": "https://www.ticketweb.com/event/limbo-at-the-refinery-presents-the-refinery-tickets/14367984"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7Jo_-",
+      "artist": "Southern Culture On the Skids",
+      "venue": "Radio Room",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2026-12-05",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jo_-"
     }
   ]
 }
