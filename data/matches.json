@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-10T21:20:27.647290+00:00",
+  "last_checked": "2026-10-11T04:51:12.644311+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6521,6 +6521,17 @@
       ],
       "date": "2027-04-30",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAeZfg"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7J7ek",
+      "artist": "Marty Stuart",
+      "venue": "Wilson Center-NC",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2026-11-13",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7ek"
     }
   ]
 }
