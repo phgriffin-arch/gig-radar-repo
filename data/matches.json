@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-11T19:23:56.613629+00:00",
+  "last_checked": "2026-10-12T00:18:32.239027+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6532,6 +6532,16 @@
       ],
       "date": "2026-11-13",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J7ek"
+    },
+    {
+      "id": "tm_vvG1zZ_oRjQ_M2",
+      "artist": "Samantha Fish",
+      "venue": "Center Stage Theater",
+      "genres": [
+        "Blues"
+      ],
+      "date": "2026-12-09",
+      "url": "https://www.ticketmaster.com/samantha-fish-atlanta-georgia-12-09-2026/event/0E00651BDC699DCF"
     }
   ]
 }
