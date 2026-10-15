@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-15T03:51:24.560666+00:00",
+  "last_checked": "2026-10-15T11:04:03.329161+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6562,6 +6562,16 @@
       ],
       "date": "2027-02-13",
       "url": "https://www.ticketmaster.com/kameron-marlowe-take-you-down-with-atlanta-georgia-02-13-2027/event/0E006546B126E00B"
+    },
+    {
+      "id": "tm_vvG1zZ_6Tb7NYS",
+      "artist": "Nick Shoulders",
+      "venue": "Center Stage Theater",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-10-23",
+      "url": "https://www.ticketmaster.com/nick-shoulders-atlanta-georgia-10-23-2026/event/0E00647FD8123C33"
     }
   ]
 }
