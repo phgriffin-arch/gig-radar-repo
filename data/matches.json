@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-16T16:19:15.680833+00:00",
+  "last_checked": "2026-10-16T20:41:41.264318+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6603,6 +6603,16 @@
       ],
       "date": "2027-05-01",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA76Gg"
+    },
+    {
+      "id": "tm_Z7r9jZ1AA7e7U",
+      "artist": "Creed Fisher",
+      "venue": "Amos Southend",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-12-10",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7e7U"
     }
   ]
 }
