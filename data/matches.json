@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-16T10:59:19.304808+00:00",
+  "last_checked": "2026-10-16T16:19:15.680833+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6572,6 +6572,37 @@
       ],
       "date": "2026-10-23",
       "url": "https://www.ticketmaster.com/nick-shoulders-atlanta-georgia-10-23-2026/event/0E00647FD8123C33"
+    },
+    {
+      "id": "tm_rZ7HnEZ1AfuVaf",
+      "artist": "KAMERON MARLOWE",
+      "venue": "The Refinery",
+      "genres": [
+        "Country",
+        "Other"
+      ],
+      "date": "2027-02-27",
+      "url": "https://www.ticketweb.com/event/kameron-marlowe-the-refinery-tickets/14374254"
+    },
+    {
+      "id": "tm_G5eVZ_fTgoXW_",
+      "artist": "Kameron Marlowe",
+      "venue": "The Senate",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-18",
+      "url": "https://www.ticketmaster.com/kameron-marlowe-columbia-south-carolina-02-18-2027/event/2D00654FF547EF59"
+    },
+    {
+      "id": "tm_Z7r9jZ1AA76Gg",
+      "artist": "Gavin Adcock",
+      "venue": "St Augustine Amphitheatre",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-05-01",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA76Gg"
     }
   ]
 }
