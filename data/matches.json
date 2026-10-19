@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-19T12:34:50.795378+00:00",
+  "last_checked": "2026-10-19T20:26:28.065604+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6613,6 +6613,26 @@
       ],
       "date": "2026-12-10",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7e7U"
+    },
+    {
+      "id": "tm_1AxZk48Gkeml7e5",
+      "artist": "Pynk Beard",
+      "venue": "Ritz Theatre",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-12",
+      "url": "https://www.ticketmaster.com/moonshine-music-jacksonville-florida-11-12-2026/event/22006550AEAC408B"
+    },
+    {
+      "id": "tm_G5eVZ_f02gqfL",
+      "artist": "Zach Seabaugh",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-25",
+      "url": "https://www.ticketmaster.com/zach-seabaugh-charlotte-north-carolina-02-25-2027/event/2D0065490FD5D51F"
     }
   ]
 }
