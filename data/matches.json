@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-20T08:18:08.590804+00:00",
+  "last_checked": "2026-10-20T14:11:04.810392+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6633,6 +6633,56 @@
       ],
       "date": "2027-02-25",
       "url": "https://www.ticketmaster.com/zach-seabaugh-charlotte-north-carolina-02-25-2027/event/2D0065490FD5D51F"
+    },
+    {
+      "id": "tm_G5eVZ_4FAO4vr",
+      "artist": "49 Winchester",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-03",
+      "url": "https://www.ticketmaster.com/49-winchester-change-of-plans-tour-charleston-south-carolina-04-03-2027/event/2D0065520581505E"
+    },
+    {
+      "id": "tm_G5eVZ_fDKRxIS",
+      "artist": "Emily Ann Roberts",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-25",
+      "url": "https://www.ticketmaster.com/emily-ann-roberts-the-thread-tour-charleston-south-carolina-04-25-2027/event/2D00654ED3BE2A33"
+    },
+    {
+      "id": "tm_G5eVZ_fHZaxpe",
+      "artist": "49 Winchester",
+      "venue": "The Senate",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-06",
+      "url": "https://www.ticketmaster.com/49-winchester-columbia-south-carolina-02-06-2027/event/2D00654F00262582"
+    },
+    {
+      "id": "tm_G5eVZ_fJy8Vht",
+      "artist": "49 Winchester",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-20",
+      "url": "https://www.ticketmaster.com/49-winchester-change-of-plans-tour-charlotte-north-carolina-02-20-2027/event/2D006549B94346E9"
+    },
+    {
+      "id": "tm_G5eVZ_fTIJGDJ",
+      "artist": "Emily Ann Roberts",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-01",
+      "url": "https://www.ticketmaster.com/emily-ann-roberts-the-thread-tour-charlotte-north-carolina-04-01-2027/event/2D00654FE898CEE6"
     }
   ]
 }
