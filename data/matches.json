@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-20T19:02:38.573705+00:00",
+  "last_checked": "2026-10-20T23:40:45.409019+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6683,6 +6683,16 @@
       ],
       "date": "2027-04-01",
       "url": "https://www.ticketmaster.com/emily-ann-roberts-the-thread-tour-charlotte-north-carolina-04-01-2027/event/2D00654FE898CEE6"
+    },
+    {
+      "id": "tm_vvG1zZ_4dRRcZC",
+      "artist": "Corey Smith",
+      "venue": "Buckhead Theatre",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-06",
+      "url": "https://www.ticketmaster.com/corey-smith-21-after-21-tour-atlanta-georgia-02-06-2027/event/0E006550EFBED00E"
     }
   ]
 }
