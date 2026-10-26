@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-26T12:30:50.403143+00:00",
+  "last_checked": "2026-10-26T20:21:18.994642+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6693,6 +6693,56 @@
       ],
       "date": "2027-02-06",
       "url": "https://www.ticketmaster.com/corey-smith-21-after-21-tour-atlanta-georgia-02-06-2027/event/0E006550EFBED00E"
+    },
+    {
+      "id": "tm_rZ7HnEZ1A4vKqS",
+      "artist": "MCCOY MOORE",
+      "venue": "The Refinery",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-01-30",
+      "url": "https://www.ticketweb.com/event/mccoy-moore-the-refinery-tickets/15053773"
+    },
+    {
+      "id": "tm_G5eVZ_fTBN2cE",
+      "artist": "Blake Whiten",
+      "venue": "The Senate",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-09",
+      "url": "https://www.ticketmaster.com/blake-whiten-columbia-south-carolina-04-09-2027/event/2D00654FFA8CFB67"
+    },
+    {
+      "id": "tm_G5eVZ_4QMMRPG",
+      "artist": "Wynonna Judd",
+      "venue": "Ovens Auditorium",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-03-19",
+      "url": "https://www.ticketmaster.com/wynonna-judd-the-hard-truth-tour-charlotte-north-carolina-03-19-2027/event/2D006556B7DEF94C"
+    },
+    {
+      "id": "tm_G5eVZ_49iUcft",
+      "artist": "Wynonna Judd",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-03-14",
+      "url": "https://www.ticketmaster.com/wynonna-judd-the-hard-truth-tour-wilmington-north-carolina-03-14-2027/event/2D006555ECDAD529"
+    },
+    {
+      "id": "tm_G5eVZ_4hCTPmY",
+      "artist": "McCoy Moore",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-18",
+      "url": "https://www.ticketmaster.com/mccoy-moore-tyin-one-on-tour-charlotte-north-carolina-02-18-2027/event/2D006556CEFE5BB0"
     }
   ]
 }
