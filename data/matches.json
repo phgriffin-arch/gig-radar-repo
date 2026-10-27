@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-27T15:12:47.121072+00:00",
+  "last_checked": "2026-10-27T21:56:54.893798+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6754,6 +6754,16 @@
       ],
       "date": "2027-02-19",
       "url": "https://www.ticketweb.com/event/cigarettes-sunset-wendells-indoors-tickets/14402014"
+    },
+    {
+      "id": "tm_Z7r9jZ1AA7YaA",
+      "artist": "Blake Whiten",
+      "venue": "The Blue Room - GA",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-15",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7YaA"
     }
   ]
 }
