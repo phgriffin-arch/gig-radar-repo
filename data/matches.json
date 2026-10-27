@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-27T08:45:55.453705+00:00",
+  "last_checked": "2026-10-27T15:12:47.121072+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6743,6 +6743,17 @@
       ],
       "date": "2027-02-18",
       "url": "https://www.ticketmaster.com/mccoy-moore-tyin-one-on-tour-charlotte-north-carolina-02-18-2027/event/2D006556CEFE5BB0"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af8eZf",
+      "artist": "Cigarettes @ Sunset",
+      "venue": "Wendell's Indoors",
+      "genres": [
+        "Country",
+        "Alternative Country"
+      ],
+      "date": "2027-02-19",
+      "url": "https://www.ticketweb.com/event/cigarettes-sunset-wendells-indoors-tickets/14402014"
     }
   ]
 }
