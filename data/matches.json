@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-28T12:23:17.112277+00:00",
+  "last_checked": "2026-10-28T20:08:12.514860+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6764,6 +6764,16 @@
       ],
       "date": "2027-04-15",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7YaA"
+    },
+    {
+      "id": "tm_G5eVZ_4mABfSw",
+      "artist": "Alexandra Kay",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-06",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-charlotte-north-carolina-02-06-2027/event/2D00655B85E94CF2"
     }
   ]
 }
