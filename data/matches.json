@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-03T13:51:03.223615+00:00",
+  "last_checked": "2026-11-03T20:49:45.442664+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6785,6 +6785,46 @@
       ],
       "date": "2027-04-12",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7t0O"
+    },
+    {
+      "id": "tm_rZ7HnEZ1Af8oe7",
+      "artist": "VINCENT MASON - WHEN YOU'RE NOT AROUND",
+      "venue": "The Refinery",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-05-07",
+      "url": "https://www.ticketweb.com/event/vincent-mason-when-the-refinery-tickets/14411084"
+    },
+    {
+      "id": "tm_G5eVZ_4B4o9oj",
+      "artist": "Vincent Mason",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-03-05",
+      "url": "https://www.ticketmaster.com/vincent-mason-when-youre-not-around-charlotte-north-carolina-03-05-2027/event/2D00655E9545745C"
+    },
+    {
+      "id": "tm_vvG1zZ_4UHzGZ_",
+      "artist": "Vincent Mason",
+      "venue": "Tabernacle Presented by iTHINK Financial",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-03-04",
+      "url": "https://www.ticketmaster.com/vincent-mason-when-youre-not-around-atlanta-georgia-03-04-2027/event/0E00655DBCE0C019"
+    },
+    {
+      "id": "tm_G5eVZ_p1bbJaf",
+      "artist": "Vincent Mason",
+      "venue": "Greenfield Lake Amphitheater",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-05-08",
+      "url": "https://www.ticketmaster.com/vincent-mason-when-youre-not-around-wilmington-north-carolina-05-08-2027/event/2D00656298626254"
     }
   ]
 }
