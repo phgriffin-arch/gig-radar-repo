@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-04T10:38:41.756783+00:00",
+  "last_checked": "2026-11-04T19:31:25.830058+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6825,6 +6825,17 @@
       ],
       "date": "2027-05-08",
       "url": "https://www.ticketmaster.com/vincent-mason-when-youre-not-around-wilmington-north-carolina-05-08-2027/event/2D00656298626254"
+    },
+    {
+      "id": "tm_G5eVZ_4M2LRZ6",
+      "artist": "Chatham County Line",
+      "venue": "Neighborhood Theatre Main Room",
+      "genres": [
+        "Country",
+        "Bluegrass"
+      ],
+      "date": "2027-02-27",
+      "url": "https://www.ticketmaster.com/chatham-county-line-charlotte-north-carolina-02-27-2027/event/2D00655DCF7EF007"
     }
   ]
 }
