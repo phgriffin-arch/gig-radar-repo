@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-07T09:45:20.053136+00:00",
+  "last_checked": "2026-11-07T17:36:30.601211+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6880,6 +6880,16 @@
       ],
       "date": "2027-02-13",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7pqK"
+    },
+    {
+      "id": "tm_Z7r9jZ1A7Ps7y",
+      "artist": "Dylan Gossett",
+      "venue": "Apopka Amphitheater",
+      "genres": [
+        "Country"
+      ],
+      "date": "2026-11-21",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ps7y"
     }
   ]
 }
