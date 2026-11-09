@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-09T11:05:18.161515+00:00",
+  "last_checked": "2026-11-09T22:05:00.067402+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6890,6 +6890,56 @@
       ],
       "date": "2026-11-21",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Ps7y"
+    },
+    {
+      "id": "tm_G5eVZ_pJdT0Fz",
+      "artist": "Dylan Marlowe",
+      "venue": "Music Farm",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-03-06",
+      "url": "https://www.ticketmaster.com/dylan-marlowe-charleston-south-carolina-03-06-2027/event/2D00656983FE4238"
+    },
+    {
+      "id": "tm_vvG1zZ_pQ1IIxu",
+      "artist": "Hannah Harper",
+      "venue": "Bell Auditorium",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-05-20",
+      "url": "https://www.ticketmaster.com/hannah-harper-behind-this-guitar-augusta-georgia-05-20-2027/event/0E0065668AA2888D"
+    },
+    {
+      "id": "tm_vvG1zZ_pCm9ntI",
+      "artist": "Cody Jinks",
+      "venue": "Macon City Auditorium",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-07",
+      "url": "https://www.ticketmaster.com/cody-jinks-the-working-man-tour-macon-georgia-02-07-2027/event/0E006563AE5EAA68"
+    },
+    {
+      "id": "tm_G5eVZ_4BYbnB7",
+      "artist": "Hannah Harper",
+      "venue": "The Fillmore Charlotte",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-05-02",
+      "url": "https://www.ticketmaster.com/hannah-harper-behind-this-guitar-tour-charlotte-north-carolina-05-02-2027/event/2D00655EB062AE84"
+    },
+    {
+      "id": "tm_G5eVZ_pbt1MD_",
+      "artist": "Myles Morgan",
+      "venue": "Neighborhood Theatre Tap Room",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-12",
+      "url": "https://www.ticketmaster.com/myles-morgan-charlotte-north-carolina-02-12-2027/event/2D006566292B7ED9"
     }
   ]
 }
