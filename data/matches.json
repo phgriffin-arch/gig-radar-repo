@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-10T06:35:32.512090+00:00",
+  "last_checked": "2026-11-10T16:52:25.062281+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -6940,6 +6940,92 @@
       ],
       "date": "2027-02-12",
       "url": "https://www.ticketmaster.com/myles-morgan-charlotte-north-carolina-02-12-2027/event/2D006566292B7ED9"
+    },
+    {
+      "id": "tm_G5eVZ_pJcG6yy",
+      "artist": "Billy Strings",
+      "venue": "North Charleston Coliseum",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2027-04-16",
+      "url": "https://www.ticketmaster.com/billy-strings-2day-ticket-416417-valid-north-charleston-south-carolina-04-16-2027/event/2D006569AD307E79"
+    },
+    {
+      "id": "tm_G5eVZ_pJlGEin",
+      "artist": "Billy Strings",
+      "venue": "North Charleston Coliseum",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2027-04-16",
+      "url": "https://www.ticketmaster.com/billy-strings-north-charleston-south-carolina-04-16-2027/event/2D006569AB327B2A"
+    },
+    {
+      "id": "tm_G5eVZ_pJcaEyP",
+      "artist": "Billy Strings",
+      "venue": "North Charleston Coliseum",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2027-04-17",
+      "url": "https://www.ticketmaster.com/billy-strings-north-charleston-south-carolina-04-17-2027/event/2D006569AD267E65"
+    },
+    {
+      "id": "tm_G5eVZ_pCx2b4Z",
+      "artist": "Lyle Lovett",
+      "venue": "The Charleston Music Hall",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-16",
+      "url": "https://www.ticketmaster.com/lyle-lovett-and-hayes-carll-together-charleston-south-carolina-02-16-2027/event/2D006563A23D8540"
+    },
+    {
+      "id": "tm_G5eVZ_pErum8K",
+      "artist": "Billy Strings",
+      "venue": "Bon Secours Wellness Arena ",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2027-04-21",
+      "url": "https://www.ticketmaster.com/billy-strings-greenville-south-carolina-04-21-2027/event/2D006569DE36E413"
+    },
+    {
+      "id": "tm_vvG1zZ_p2ItdK-",
+      "artist": "Clint Black",
+      "venue": "Bell Auditorium",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-02-18",
+      "url": "https://www.ticketmaster.com/clint-black-number-1s-live-on-augusta-georgia-02-18-2027/event/0E006563E8A434E1"
+    },
+    {
+      "id": "tm_G5eVZ_pKYhTru",
+      "artist": "Shadowgrass",
+      "venue": "The Senate",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2027-01-30",
+      "url": "https://www.ticketmaster.com/an-evening-with-shadowgrass-columbia-south-carolina-01-30-2027/event/2D006564F06FF78D"
+    },
+    {
+      "id": "tm_G5eVZ_p1poPWW",
+      "artist": "Shadowgrass",
+      "venue": "The Underground",
+      "genres": [
+        "Bluegrass",
+        "Country"
+      ],
+      "date": "2027-03-27",
+      "url": "https://www.ticketmaster.com/an-evening-with-shadowgrass-charlotte-north-carolina-03-27-2027/event/2D00656296465F7D"
     }
   ]
 }
