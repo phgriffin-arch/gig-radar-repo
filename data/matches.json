@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-11T13:48:21.411352+00:00",
+  "last_checked": "2026-11-11T21:47:32.677975+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -7026,6 +7026,16 @@
       ],
       "date": "2027-03-27",
       "url": "https://www.ticketmaster.com/an-evening-with-shadowgrass-charlotte-north-carolina-03-27-2027/event/2D00656296465F7D"
+    },
+    {
+      "id": "tm_Z7r9jZ1AA7Sue",
+      "artist": "Joanne Shaw Taylor",
+      "venue": "Heartwood Soundstage",
+      "genres": [
+        "Other"
+      ],
+      "date": "2027-03-05",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Sue"
     }
   ]
 }
