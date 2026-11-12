@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-11T21:47:32.677975+00:00",
+  "last_checked": "2026-11-12T06:26:06.125966+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -7036,6 +7036,28 @@
       ],
       "date": "2027-03-05",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Sue"
+    },
+    {
+      "id": "tm_Z7r9jZ1AA7-Gg",
+      "artist": "Corey Smith",
+      "venue": "Victory North",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2027-03-13",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7-Gg"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAvSq3",
+      "artist": "Southern Culture On the Skids",
+      "venue": "Victory North",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2027-02-26",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvSq3"
     }
   ]
 }
