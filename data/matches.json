@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-14T19:48:32.588835+00:00",
+  "last_checked": "2026-11-15T00:52:46.098410+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -7058,6 +7058,17 @@
       ],
       "date": "2027-02-26",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvSq3"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAAkJo",
+      "artist": "Cody Jinks",
+      "venue": "Apopka Amphitheater",
+      "genres": [
+        "Country",
+        "Country Folk"
+      ],
+      "date": "2027-02-06",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAkJo"
     }
   ]
 }
