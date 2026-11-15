@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-15T10:31:04.686505+00:00",
+  "last_checked": "2026-11-15T18:38:02.175483+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -7069,6 +7069,16 @@
       ],
       "date": "2027-02-06",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAkJo"
+    },
+    {
+      "id": "tm_vvG1zZ_p_uGyO2",
+      "artist": "Clint Black",
+      "venue": "Trilith LIVE",
+      "genres": [
+        "Country"
+      ],
+      "date": "2027-04-22",
+      "url": "https://www.ticketmaster.com/clint-black-number-1s-live-on-fayetteville-georgia-04-22-2027/event/0E0065664D33980F"
     }
   ]
 }
