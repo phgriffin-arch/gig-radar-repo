@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-23T11:58:49.816524+00:00",
+  "last_checked": "2026-11-23T23:45:57.168189+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -7145,6 +7145,28 @@
       ],
       "date": "2027-04-22",
       "url": "https://www.ticketmaster.com/southall-hills-and-valleys-tour-charlotte-north-carolina-04-22-2027/event/2D00656A1A076E02"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAAf8p",
+      "artist": "Travis Tritt",
+      "venue": "Florida Theatre Jacksonville",
+      "genres": [
+        "Country",
+        "Country Folk"
+      ],
+      "date": "2027-03-10",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAf8p"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAAxA4",
+      "artist": "Lyle Lovett",
+      "venue": "Wilson Center-NC",
+      "genres": [
+        "Country",
+        "Country Folk"
+      ],
+      "date": "2027-02-10",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAxA4"
     }
   ]
 }
