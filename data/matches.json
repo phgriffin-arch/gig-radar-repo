@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-24T09:03:19.750713+00:00",
+  "last_checked": "2026-11-24T22:05:15.765826+00:00",
   "matches": [
     {
       "id": "tm_evt1",
@@ -7167,6 +7167,17 @@
       ],
       "date": "2027-02-10",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAxA4"
+    },
+    {
+      "id": "tm_Z7r9jZ1AAAfFs",
+      "artist": "Trace Adkins",
+      "venue": "The Peabody Daytona Beach",
+      "genres": [
+        "Country Folk",
+        "Country"
+      ],
+      "date": "2027-02-19",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAfFs"
     }
   ]
 }
